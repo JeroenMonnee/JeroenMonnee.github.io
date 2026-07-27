@@ -727,3 +727,79 @@ a {
     min-height: 680px;
   }
 }
+/* =========================================================
+   Hero text rendering fix — v5.1
+   ========================================================= */
+
+/* Keep the site name legible on the light navigation bar. */
+.navbar-brand,
+.navbar-brand:visited,
+.navbar-brand:hover,
+.navbar-brand:focus {
+  color: #211d1b !important;
+  opacity: 1 !important;
+}
+
+/* The hero is now explicit HTML, so each text element has one clear layer. */
+.hero-copy,
+.hero-copy * {
+  text-shadow: none !important;
+  filter: none !important;
+  mix-blend-mode: normal !important;
+}
+
+.hero-name,
+.hero-role,
+.hero-affiliation,
+.hero-title,
+.hero-lead {
+  position: relative !important;
+  display: block !important;
+  transform: none !important;
+  opacity: 1 !important;
+  writing-mode: horizontal-tb !important;
+  word-spacing: normal !important;
+  font-kerning: normal !important;
+}
+
+.hero-name {
+  color: #ffffff !important;
+}
+
+.hero-role {
+  margin: 0 !important;
+  line-height: 1.25 !important;
+}
+
+.hero-affiliation {
+  margin: 0.5rem 0 0 !important;
+  line-height: 1.55 !important;
+}
+
+.hero-title {
+  margin: 0 !important;
+  line-height: 1.13 !important;
+}
+
+.hero-lead {
+  width: 100% !important;
+  max-width: 410px !important;
+  margin: 1rem 0 0 !important;
+  line-height: 1.62 !important;
+  white-space: normal !important;
+  overflow: visible !important;
+  overflow-wrap: normal !important;
+  word-break: normal !important;
+}
+
+.hero-copy p,
+.hero-copy h1,
+.hero-copy h2 {
+  padding: 0 !important;
+}
+
+@media (max-width: 760px) {
+  .hero-lead {
+    max-width: 100% !important;
+  }
+}

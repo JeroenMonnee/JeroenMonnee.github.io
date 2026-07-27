@@ -5,165 +5,182 @@ page-layout: full
 toc: false
 ---
 
-:::::::: {.home-page}
+```{=html}
+<div class="home-page">
 
-::::::: {.hero-stage}
-:::::: {.hero-inner}
-::::: {.hero-copy}
+  <section class="hero-stage">
+    <div class="hero-inner">
+      <div class="hero-copy">
 
-# Jeroen Monnee {.hero-name}
+        <h1 class="hero-name">Jeroen Monnee</h1>
 
-:::: {.hero-role}
-Postdoctoral Researcher
-::::
+        <div class="hero-role">Postdoctoral Researcher</div>
 
-:::: {.hero-affiliation}
-II. Institute for Theoretical Physics  
-University of Hamburg
-::::
+        <div class="hero-affiliation">
+          II. Institute for Theoretical Physics<br>
+          University of Hamburg
+        </div>
 
-::: {.hero-divider}
-:::
+        <div class="hero-divider" aria-hidden="true"></div>
 
-## Geometry, emergence, and quantum consistency {.hero-title}
+        <h2 class="hero-title">
+          Geometry, emergence,<br>
+          and quantum consistency
+        </h2>
 
-:::: {.hero-lead}
-I use asymptotic Hodge theory and Calabi–Yau geometry to understand boundary
-regimes of string compactifications—where towers of states become light, strings
-emerge, and effective theories encounter quantum-consistency constraints.
-::::
+        <p class="hero-lead">
+          I use asymptotic Hodge theory and Calabi–Yau geometry to understand
+          boundary regimes of string compactifications—where towers of states
+          become light, strings emerge, and effective theories encounter
+          quantum-consistency constraints.
+        </p>
 
-:::: {.hero-actions}
-[Explore my research →](research.qmd){.button-primary}
-[View publications](publications.qmd){.button-ghost}
-::::
+        <div class="hero-actions">
+          <a class="button-primary" href="research.html">Explore my research →</a>
+          <a class="button-ghost" href="publications.html">View publications</a>
+        </div>
 
-:::::
-::::::
-:::::::
+      </div>
+    </div>
+  </section>
 
-:::::: {.profile-band}
-::::: {.profile-grid}
+  <section class="profile-band" aria-label="Academic profiles and contact links">
+    <div class="profile-grid">
 
-[![](assets/icon-email.svg){.profile-icon} Email](mailto:jeroen.monnee@desy.de){.profile-card}
+      <a class="profile-card" href="mailto:jeroen.monnee@desy.de">
+        <img class="profile-icon" src="assets/icon-email.svg" alt="">
+        <span>Email</span>
+      </a>
 
-[![](assets/icon-institution.svg){.profile-icon} Institutional profile](https://www.physik.uni-hamburg.de/en/th2/ag-weigand/personen/monnee-jeroen.html){.profile-card}
+      <a class="profile-card"
+         href="https://www.physik.uni-hamburg.de/en/th2/ag-weigand/personen/monnee-jeroen.html">
+        <img class="profile-icon" src="assets/icon-institution.svg" alt="">
+        <span>Institutional profile</span>
+      </a>
 
-[![](assets/icon-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.com/citations?hl=en&user=b-PA-YYAAAAJ){.profile-card}
+      <a class="profile-card"
+         href="https://scholar.google.com/citations?hl=en&amp;user=b-PA-YYAAAAJ">
+        <img class="profile-icon" src="assets/icon-scholar.svg" alt="">
+        <span>Google Scholar</span>
+      </a>
 
-[![](assets/icon-orcid.svg){.profile-icon} ORCID](https://orcid.org/0000-0002-8744-4821){.profile-card}
+      <a class="profile-card" href="https://orcid.org/0000-0002-8744-4821">
+        <img class="profile-icon" src="assets/icon-orcid.svg" alt="">
+        <span>ORCID</span>
+      </a>
 
-[![](assets/icon-inspire.svg){.profile-icon} INSPIRE-HEP](https://inspirehep.net/authors/1853394){.profile-card}
+      <a class="profile-card" href="https://inspirehep.net/authors/1853394">
+        <img class="profile-icon" src="assets/icon-inspire.svg" alt="">
+        <span>INSPIRE-HEP</span>
+      </a>
 
-:::::
-::::::
+    </div>
+  </section>
 
-::::::: {.home-content}
+  <main class="home-content">
 
-:::::: {.home-section .research-focus}
+    <section class="home-section research-focus">
+      <header class="section-heading-centered">
+        <h2>Research focus</h2>
+        <p>
+          I study how geometry controls the microscopic physics of string compactifications,
+          with emphasis on asymptotic regimes and quantum consistency.
+        </p>
+      </header>
 
-::::: {.section-heading-centered}
-## Research focus
+      <div class="theme-grid">
 
-I study how geometry controls the microscopic physics of string compactifications,
-with emphasis on asymptotic regimes and quantum consistency.
-:::::
+        <article class="theme-card">
+          <img class="theme-icon" src="assets/icon-emergence.svg" alt="">
+          <h3>Emergent strings and infinite distance</h3>
+          <p>
+            Identifying the strings, towers of states, and higher-dimensional
+            descriptions that emerge at boundaries of moduli space.
+          </p>
+        </article>
 
-::::: {.theme-grid}
+        <article class="theme-card">
+          <img class="theme-icon" src="assets/icon-hodge.svg" alt="">
+          <h3>Asymptotic Hodge theory</h3>
+          <p>
+            Turning structural theorems for degenerating Hodge structures into tools
+            for periods, metrics, couplings, and flux potentials.
+          </p>
+        </article>
 
-:::: {.theme-card}
-![](assets/icon-emergence.svg){.theme-icon}
+        <article class="theme-card">
+          <img class="theme-icon" src="assets/icon-obstruction.svg" alt="">
+          <h3>Quantum consistency and finiteness</h3>
+          <p>
+            Testing when classical limits survive quantum corrections and how geometry
+            constrains the landscape of effective theories and flux vacua.
+          </p>
+        </article>
 
-### Emergent strings and infinite distance
+      </div>
+    </section>
 
-Identifying the strings, towers of states, and higher-dimensional descriptions that
-emerge at boundaries of moduli space.
-::::
+    <section class="home-section selected-publications">
+      <header class="section-heading-centered">
+        <h2>Selected publications</h2>
+        <p>
+          Recent work on emergent strings, geometric degenerations, and quantum
+          obstructions in string compactifications.
+        </p>
+        <a class="view-all-link" href="publications.html">View all publications →</a>
+      </header>
 
-:::: {.theme-card}
-![](assets/icon-hodge.svg){.theme-icon}
+      <div class="work-grid">
 
-### Asymptotic Hodge theory
+        <article class="work-card">
+          <div class="work-meta">Physical Review D 113 (2026)</div>
+          <h3>
+            Quantum obstructions for N=1 infinite-distance limits —
+            Part II: Kähler obstructions
+          </h3>
+          <p>
+            Quantum corrections in the Kähler sector can enforce correlated scalings
+            among moduli, obstructing classical infinite-distance limits.
+          </p>
+          <div class="work-links">
+            <a href="https://arxiv.org/abs/2603.13470">↗ arXiv:2603.13470</a>
+            <a href="https://doi.org/10.1103/ypyx-mg6r">◉ DOI</a>
+          </div>
+        </article>
 
-Turning structural theorems for degenerating Hodge structures into tools for periods,
-metrics, couplings, and flux potentials.
-::::
+        <article class="work-card">
+          <div class="work-meta">JHEP 03 (2026) 063</div>
+          <h3>
+            Physics and geometry of complex-structure limits in Type IIB
+            Calabi–Yau compactifications
+          </h3>
+          <p>
+            A geometric interpretation of type II, III, and IV limits and the towers
+            of BPS states that realise their emergent higher-dimensional physics.
+          </p>
+          <div class="work-links">
+            <a href="https://arxiv.org/abs/2509.07056">↗ arXiv:2509.07056</a>
+            <a href="https://doi.org/10.1007/JHEP03(2026)063">◉ DOI</a>
+          </div>
+        </article>
 
-:::: {.theme-card}
-![](assets/icon-obstruction.svg){.theme-icon}
+        <article class="work-card">
+          <div class="work-meta">JHEP 01 (2026) 140</div>
+          <h3>Emergent strings in Type IIB Calabi–Yau compactifications</h3>
+          <p>
+            A microscopic identification of emergent heterotic strings and accompanying
+            towers of states in a broad class of type II limits.
+          </p>
+          <div class="work-links">
+            <a href="https://arxiv.org/abs/2504.01066">↗ arXiv:2504.01066</a>
+            <a href="https://doi.org/10.1007/JHEP01(2026)140">◉ DOI</a>
+          </div>
+        </article>
 
-### Quantum consistency and finiteness
+      </div>
+    </section>
 
-Testing when classical limits survive quantum corrections and how geometry constrains
-the landscape of effective theories and flux vacua.
-::::
+  </main>
 
-:::::
-::::::
-
-:::::: {.home-section .selected-publications}
-
-::::: {.section-heading-centered}
-## Selected publications
-
-Recent work on emergent strings, geometric degenerations, and quantum obstructions in
-string compactifications.
-
-[View all publications →](publications.qmd){.view-all-link}
-:::::
-
-::::: {.work-grid}
-
-:::: {.work-card}
-::: {.work-meta}
-Physical Review D 113 (2026)
-:::
-
-### Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits — Part II: Kähler obstructions
-
-Quantum corrections in the Kähler sector can enforce correlated scalings among
-moduli, obstructing classical infinite-distance limits.
-
-::: {.work-links}
-[↗ arXiv:2603.13470](https://arxiv.org/abs/2603.13470)
-[◉ DOI](https://doi.org/10.1103/ypyx-mg6r)
-:::
-::::
-
-:::: {.work-card}
-::: {.work-meta}
-JHEP 03 (2026) 063
-:::
-
-### Physics and geometry of complex-structure limits in Type IIB Calabi–Yau compactifications
-
-A geometric interpretation of type II, III, and IV limits and the towers of BPS states
-that realise their emergent higher-dimensional physics.
-
-::: {.work-links}
-[↗ arXiv:2509.07056](https://arxiv.org/abs/2509.07056)
-[◉ DOI](https://doi.org/10.1007/JHEP03(2026)063)
-:::
-::::
-
-:::: {.work-card}
-::: {.work-meta}
-JHEP 01 (2026) 140
-:::
-
-### Emergent strings in Type IIB Calabi–Yau compactifications
-
-A microscopic identification of emergent heterotic strings and accompanying towers
-of states in a broad class of type II limits.
-
-::: {.work-links}
-[↗ arXiv:2504.01066](https://arxiv.org/abs/2504.01066)
-[◉ DOI](https://doi.org/10.1007/JHEP01(2026)140)
-:::
-::::
-
-:::::
-::::::
-
-:::::::
-::::::::
+</div>
+```
