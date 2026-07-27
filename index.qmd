@@ -6,239 +6,164 @@ toc: false
 ---
 
 :::::::: {.home-page}
-::::::: {.home-shell}
 
-:::::: {.hero}
+::::::: {.hero-stage}
+:::::: {.hero-inner}
 ::::: {.hero-copy}
-
-:::: {.eyebrow}
-String theory · Quantum gravity · Calabi–Yau geometry
-::::
 
 # Jeroen Monnee {.hero-name}
 
 :::: {.hero-role}
-Postdoctoral Researcher · II. Institute for Theoretical Physics · University of Hamburg
+Postdoctoral Researcher
 ::::
 
+:::: {.hero-affiliation}
+II. Institute for Theoretical Physics  
+University of Hamburg
+::::
+
+::: {.hero-divider}
+:::
+
+## Geometry, emergence, and quantum consistency {.hero-title}
+
 :::: {.hero-lead}
-I use **asymptotic Hodge theory and Calabi–Yau geometry** to understand boundary
+I use asymptotic Hodge theory and Calabi–Yau geometry to understand boundary
 regimes of string compactifications—where towers of states become light, strings
 emerge, and effective theories encounter quantum-consistency constraints.
 ::::
 
-:::: {.hero-support}
-My work connects abstract structures in geometry to concrete questions about
-effective field theory, duality, and the microscopic origin of quantum gravity.
-::::
-
 :::: {.hero-actions}
-[View research](research.qmd){.button-primary}
-[Browse publications](publications.qmd){.button-secondary}
-[Download CV](files/Jeroen_Monnee_CV.pdf){.button-secondary}
-::::
-
-:::: {.profile-link-row}
-[✉ Email](mailto:jeroen.monnee@desy.de){.profile-link}
-[▦ Institutional profile](https://www.physik.uni-hamburg.de/en/th2/ag-weigand/personen/monnee-jeroen.html){.profile-link}
-[◆ Google Scholar](https://scholar.google.com/citations?hl=en&user=b-PA-YYAAAAJ){.profile-link}
-[◎ ORCID](https://orcid.org/0000-0002-8744-4821){.profile-link}
-[⚛ INSPIRE-HEP](https://inspirehep.net/authors/1853394){.profile-link}
+[Explore my research →](research.qmd){.button-primary}
+[View publications](publications.qmd){.button-ghost}
 ::::
 
 :::::
 ::::::
+:::::::
 
-::::: {.signal-strip aria-label="Research profile"}
+:::::: {.profile-band}
+::::: {.profile-grid}
 
-:::: {.signal}
-::: {.signal-label}
-Core question
-:::
-::: {.signal-value}
-Which low-energy theories can arise from quantum gravity?
-:::
-::::
+[![](assets/icon-email.svg){.profile-icon} Email](mailto:jeroen.monnee@desy.de){.profile-card}
 
-:::: {.signal}
-::: {.signal-label}
-Main tools
-:::
-::: {.signal-value}
-Hodge theory, Calabi–Yau degenerations, and effective field theory
-:::
-::::
+[![](assets/icon-institution.svg){.profile-icon} Institutional profile](https://www.physik.uni-hamburg.de/en/th2/ag-weigand/personen/monnee-jeroen.html){.profile-card}
 
-:::: {.signal}
-::: {.signal-label}
-Current focus
-:::
-::: {.signal-value}
-Infinite distance, emergent strings, quantum corrections, and finiteness
-:::
-::::
+[![](assets/icon-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.com/citations?hl=en&user=b-PA-YYAAAAJ){.profile-card}
+
+[![](assets/icon-orcid.svg){.profile-icon} ORCID](https://orcid.org/0000-0002-8744-4821){.profile-card}
+
+[![](assets/icon-inspire.svg){.profile-icon} INSPIRE-HEP](https://inspirehep.net/authors/1853394){.profile-card}
 
 :::::
+::::::
 
-::::: {.research-art aria-label="Artistic illustration of Calabi-Yau geometry, an emergent string, and quantum obstructions"}
-:::: {.research-art-copy}
-::: {.research-art-kicker}
-Research in visual form
-:::
-## Geometry, emergence, and quantum consistency
+::::::: {.home-content}
 
-The floating geometry recalls the Calabi–Yau structures underlying string
-compactifications. The luminous filament represents an emergent string, while the
-fragmented surrounding trajectories evoke quantum obstructions to classical limits.
-::::
-:::::
+:::::: {.home-section .research-focus}
 
-:::::: {.section-block}
+::::: {.section-heading-centered}
+## Research focus
 
-::::: {.section-header}
-:::: {.section-heading}
-::: {.section-kicker}
-Research programme
-:::
-## Geometry as a diagnostic of quantum gravity
-::::
-
-:::: {.section-intro}
-The geometry of a compactification is not merely background data: it controls
-masses, couplings, field-space distances, and the appearance of new degrees of
-freedom. I study this structure in asymptotic regimes where universal statements
-become possible.
-::::
+I study how geometry controls the microscopic physics of string compactifications,
+with emphasis on asymptotic regimes and quantum consistency.
 :::::
 
 ::::: {.theme-grid}
 
 :::: {.theme-card}
-::: {.theme-number}
-01
-:::
-### Infinite distance and emergence
+![](assets/icon-emergence.svg){.theme-icon}
 
-I identify the towers of light states, effective strings, and higher-dimensional
-descriptions associated with boundaries of Calabi–Yau moduli spaces.
+### Emergent strings and infinite distance
 
-[Read about this theme](research.qmd#infinite-distance){.card-link}
+Identifying the strings, towers of states, and higher-dimensional descriptions that
+emerge at boundaries of moduli space.
 ::::
 
 :::: {.theme-card}
-::: {.theme-number}
-02
-:::
-### Hodge theory as a physical toolkit
+![](assets/icon-hodge.svg){.theme-icon}
 
-I translate structural results on degenerating Hodge structures into practical
-control over periods, metrics, couplings, flux potentials, and BPS masses.
+### Asymptotic Hodge theory
 
-[Read about this theme](research.qmd#hodge-theory){.card-link}
+Turning structural theorems for degenerating Hodge structures into tools for periods,
+metrics, couplings, and flux potentials.
 ::::
 
 :::: {.theme-card}
-::: {.theme-number}
-03
-:::
+![](assets/icon-obstruction.svg){.theme-icon}
+
 ### Quantum consistency and finiteness
 
-I investigate when classical limits survive quantum corrections and how geometry
-constrains the landscape of effective theories and flux vacua.
-
-[Read about this theme](research.qmd#quantum-obstructions){.card-link}
+Testing when classical limits survive quantum corrections and how geometry constrains
+the landscape of effective theories and flux vacua.
 ::::
 
 :::::
-
 ::::::
 
-:::::: {.section-block}
+:::::: {.home-section .selected-publications}
 
-::::: {.section-header}
-:::: {.section-heading}
-::: {.section-kicker}
-Selected work
-:::
-## Recent and representative publications
-::::
+::::: {.section-heading-centered}
+## Selected publications
 
-:::: {.section-intro}
-These papers illustrate the main strands of my research: geometric interpretations
-of infinite-distance limits, the emergence of strings and Kaluza–Klein towers, and
-quantum obstructions to apparently consistent classical limits.
-::::
+Recent work on emergent strings, geometric degenerations, and quantum obstructions in
+string compactifications.
+
+[View all publications →](publications.qmd){.view-all-link}
 :::::
 
 ::::: {.work-grid}
 
 :::: {.work-card}
 ::: {.work-meta}
-Physical Review D · 2026 · Two-paper series
+Physical Review D 113 (2026)
 :::
-### Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits
 
-Quantum effects can strongly alter—or even remove—classical infinite-distance
-regimes, requiring different moduli sectors to scale together.
+### Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits — Part II: Kähler obstructions
+
+Quantum corrections in the Kähler sector can enforce correlated scalings among
+moduli, obstructing classical infinite-distance limits.
 
 ::: {.work-links}
-[Part I: DOI](https://doi.org/10.1103/blb9-hrwd)
-[Part I: arXiv](https://arxiv.org/abs/2603.12315)
-[Part II: DOI](https://doi.org/10.1103/ypyx-mg6r)
-[Part II: arXiv](https://arxiv.org/abs/2603.13470)
+[↗ arXiv:2603.13470](https://arxiv.org/abs/2603.13470)
+[◉ DOI](https://doi.org/10.1103/ypyx-mg6r)
 :::
 ::::
 
 :::: {.work-card}
 ::: {.work-meta}
-Journal of High Energy Physics · 2026
+JHEP 03 (2026) 063
 :::
-### Physics and geometry of complex-structure limits
 
-The Hodge-theoretic classification of type II, III, and IV limits is connected to
-explicit vanishing cycles, towers of BPS states, and higher-dimensional duality frames.
+### Physics and geometry of complex-structure limits in Type IIB Calabi–Yau compactifications
+
+A geometric interpretation of type II, III, and IV limits and the towers of BPS states
+that realise their emergent higher-dimensional physics.
 
 ::: {.work-links}
-[DOI](https://doi.org/10.1007/JHEP03(2026)063)
-[arXiv](https://arxiv.org/abs/2509.07056)
+[↗ arXiv:2509.07056](https://arxiv.org/abs/2509.07056)
+[◉ DOI](https://doi.org/10.1007/JHEP03(2026)063)
 :::
 ::::
 
 :::: {.work-card}
 ::: {.work-meta}
-Journal of High Energy Physics · 2026
+JHEP 01 (2026) 140
 :::
+
 ### Emergent strings in Type IIB Calabi–Yau compactifications
 
-A microscopic construction identifies emergent heterotic strings and their
-accompanying towers of light states in a broad class of type II limits.
+A microscopic identification of emergent heterotic strings and accompanying towers
+of states in a broad class of type II limits.
 
 ::: {.work-links}
-[DOI](https://doi.org/10.1007/JHEP01(2026)140)
-[arXiv](https://arxiv.org/abs/2504.01066)
+[↗ arXiv:2504.01066](https://arxiv.org/abs/2504.01066)
+[◉ DOI](https://doi.org/10.1007/JHEP01(2026)140)
 :::
 ::::
 
 :::::
-
-::: {.section-end-link}
-[View the complete publication list →](publications.qmd)
-:::
-
 ::::::
-
-::::: {.cta-panel}
-:::: {.cta-copy}
-## Get in touch
-
-I welcome research discussions, collaboration enquiries, and seminar invitations.
-::::
-
-:::: {.cta-actions}
-[Email me](mailto:jeroen.monnee@desy.de){.button-light}
-[Institutional profile](https://www.physik.uni-hamburg.de/en/th2/ag-weigand/personen/monnee-jeroen.html){.button-outline-light}
-::::
-:::::
 
 :::::::
 ::::::::

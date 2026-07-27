@@ -1,14 +1,14 @@
 /*-- scss:defaults --*/
 
-// Warm, professional palette: muted terracotta, soft apricot, and warm neutrals.
-$primary: #a95f45;
-$secondary: #756a64;
-$success: #7a8b78;
-$warning: #d59a68;
+$primary: #d46442;
+$secondary: #7c655b;
+$success: #8a9c79;
+$warning: #e0a374;
+
 $body-bg: #fff9f4;
-$body-color: #403936;
-$link-color: #a4563d;
-$link-hover-color: #7d3f2e;
+$body-color: #342e2b;
+$link-color: #c85737;
+$link-hover-color: #963d29;
 $border-color: #eadbd2;
 
 $font-family-sans-serif:
@@ -18,44 +18,62 @@ $font-family-sans-serif:
 $headings-font-family:
   Georgia, "Times New Roman", serif;
 
-$headings-color: #4f352d;
-$headings-font-weight: 650;
+$headings-color: #654334;
+$headings-font-weight: 600;
 
-$navbar-bg: #51372f;
-$navbar-fg: #fffaf6;
-$navbar-hl: #f0b992;
+$navbar-bg: #fff9f4;
+$navbar-fg: #211d1b;
+$navbar-hl: #d46442;
 
-$border-radius: 0.75rem;
-$border-radius-lg: 1.15rem;
+$border-radius: 0.65rem;
+$border-radius-lg: 1rem;
 
-$btn-border-radius: 999px;
-$btn-border-radius-lg: 999px;
+$btn-border-radius: 0.75rem;
+$btn-border-radius-lg: 0.75rem;
 
 /*-- scss:rules --*/
 
 body {
-  letter-spacing: -0.005em;
+  letter-spacing: -0.004em;
 }
 
 h1, h2, h3 {
-  letter-spacing: -0.025em;
+  letter-spacing: -0.018em;
 }
 
 .navbar {
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.10);
+  border-bottom: 1px solid rgba(115, 77, 60, 0.08);
+  box-shadow: none;
 }
 
-.navbar-brand img {
-  max-height: 38px;
-}
-
-.navbar .nav-link {
-  font-size: 0.94rem;
+.navbar-brand {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
   font-weight: 600;
 }
 
-.navbar .nav-link.active {
-  color: #f0b992 !important;
+.navbar-brand img {
+  max-height: 42px;
+  width: auto;
+  margin-right: 0.8rem;
+}
+
+.navbar .nav-link {
+  position: relative;
+  padding-top: 1.15rem;
+  padding-bottom: 1.15rem;
+  font-size: 0.94rem;
+  font-weight: 500;
+}
+
+.navbar .nav-link.active::after {
+  content: "";
+  position: absolute;
+  left: 0.55rem;
+  right: 0.55rem;
+  bottom: 0.55rem;
+  height: 2px;
+  background: #d46442;
 }
 
 #quarto-content {
@@ -63,14 +81,10 @@ h1, h2, h3 {
 }
 
 main.content {
-  font-size: 1.02rem;
-  line-height: 1.75;
+  font-size: 1.01rem;
+  line-height: 1.72;
 }
 
 .quarto-title h1.title {
-  font-size: clamp(2.3rem, 5vw, 4rem);
-}
-
-.btn-primary {
-  color: #fff;
+  font-size: clamp(2.15rem, 4vw, 3.45rem);
 }
