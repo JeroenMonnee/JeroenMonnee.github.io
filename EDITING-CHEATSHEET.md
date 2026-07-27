@@ -2,6 +2,19 @@
 
 Most website content is ordinary Markdown inside `.qmd` files.
 
+## Where to edit
+
+| Change | File |
+|---|---|
+| Homepage and contact text | `index.qmd` |
+| Research themes | `research.qmd` |
+| Publications and summaries | `publications.qmd` |
+| Talks, service, and outreach | `activities.qmd` |
+| Teaching and supervision | `teaching.qmd` |
+| Navigation and footer | `_quarto.yml` |
+| Visual styling | `styles.css` and `theme.scss` |
+| CV PDF | `files/Jeroen_Monnee_CV.pdf` |
+
 ## Basic formatting
 
 ```markdown
@@ -20,13 +33,13 @@ Most website content is ordinary Markdown inside `.qmd` files.
 
 ## Mathematics
 
-Inline mathematics:
+Use dollar signs, which Quarto processes reliably:
 
 ```markdown
 The theory has $\mathcal{N}=1$ supersymmetry.
 ```
 
-Displayed mathematics:
+For displayed mathematics:
 
 ```markdown
 $$
@@ -39,52 +52,57 @@ $$
 Copy one existing publication block in `publications.qmd` and replace its contents:
 
 ```markdown
-::: {.publication}
-<div class="pub-year">2027</div>
-<div>
-<h3>Title of the paper</h3>
-<p>First Author, <strong>J. Monnee</strong>, and Other Author</p>
-<p><em>Journal Name</em> <strong>volume</strong>, page or article number (2027)</p>
-<p class="pub-links"><a href="DOI-URL">Journal</a> · <a href="ARXIV-URL">arXiv</a></p>
-</div>
+:::: {.publication}
+::: {.pub-year}
+2027
 :::
+::: {.publication-body}
+### Title of the paper
+
+First Author, **J. Monnee**, and Other Author
+
+*Journal Name* **volume**, article number (2027)
+
+::: {.pub-summary}
+One or two sentences explaining the paper's main contribution.
+:::
+
+::: {.pub-links}
+[DOI](https://doi.org/...) ·
+[arXiv](https://arxiv.org/abs/...)
+:::
+:::
+::::
 ```
 
 ## Add a talk
 
-Copy one timeline block in `activities.qmd`:
+Copy one timeline item in `activities.qmd`:
 
 ```markdown
 ::: {.timeline-item}
-<div class="timeline-date">Oct 2027</div>
-<div class="timeline-content">
-<h3>University or conference</h3>
-<p>Title of the talk</p>
-</div>
+::: {.timeline-date}
+Oct 2027
+:::
+::: {.timeline-content}
+### University or conference
+
+*Title of the talk*
+:::
 :::
 ```
 
-## Add a navigation page
+## Update the CV
 
-1. Create `newpage.qmd`.
-2. Add this at the top:
+Replace `files/Jeroen_Monnee_CV.pdf` with the new PDF while keeping exactly the same
+filename. No page source needs to be edited.
 
-```yaml
----
-title: "New page"
-description: "One-sentence description."
-toc: true
----
+## Preview locally
+
+From the repository folder:
+
+```bash
+quarto preview
 ```
 
-3. Add the page to the `navbar.left` list in `_quarto.yml`:
-
-```yaml
-- text: "New page"
-  href: newpage.qmd
-```
-
-## Keep the design consistent
-
-Use the existing card and timeline blocks as templates. For ordinary content, prefer
-Markdown headings and paragraphs rather than writing new HTML.
+After checking the result, commit and push through GitHub Desktop.

@@ -1,86 +1,128 @@
 ---
 title: "Research"
-description: "My research programme at the intersection of string theory, quantum gravity, and algebraic geometry."
+description: "Research programme in string theory, quantum gravity, asymptotic Hodge theory, and Calabi–Yau geometry."
 toc: true
 ---
 
 ::: {.lead}
-My central question is how a low-energy effective theory reveals whether it can arise
-from a consistent theory of quantum gravity. In string compactifications, much of this
-information is encoded in the geometry of moduli spaces and in the behaviour of the
-theory near their boundaries.
+My research asks how the geometry of string compactifications encodes the microscopic
+physics of quantum gravity. I focus on asymptotic regions of moduli space, where towers
+of states become light, effective strings can emerge, and quantum corrections can
+invalidate the classical effective description.
+:::
+
+::: {.plain-language-box}
+### The basic idea
+
+Compactification geometry determines physical quantities such as particle masses,
+couplings, and field-space distances. Near singular boundaries, these quantities obey
+universal asymptotic patterns. By understanding the geometry of those patterns, one can
+identify the new degrees of freedom that appear and test whether the low-energy theory
+remains consistent.
 :::
 
 ## Research programme
 
-<div class="research-grid">
+:::: {.research-grid}
 
 ::: {.research-card}
-### Infinite-distance limits and emergent strings
+### Infinite-distance limits and emergent strings {#infinite-distance}
 
-Infinite-distance limits are regimes in which an effective theory develops an infinite
-tower of light states. I study how these towers arise geometrically in Calabi–Yau
-compactifications and whether the limiting theory is governed by a weakly coupled
-critical string or by decompactification to a higher-dimensional theory.
+**Question.** What microscopic degrees of freedom become light when a scalar field
+travels an infinite distance in moduli space?
 
-A major goal is to connect the Hodge-theoretic classification of type II, III, and IV
-degenerations to explicit geometric cycles, BPS states, effective strings, and their
-higher-dimensional duality frames.
+**Approach.** I combine Hodge-theoretic degeneration data with the geometry of
+Calabi–Yau fibrations and vanishing cycles. This makes it possible to identify BPS
+particles, effective strings, Kaluza–Klein towers, and the appropriate higher-dimensional
+duality frame.
+
+**Why it matters.** The analysis provides a concrete realisation of the idea that
+infinite-distance limits are controlled by emergent weakly coupled descriptions rather
+than by an arbitrary breakdown of effective field theory.
+
+**Related work:** [Emergent strings](https://doi.org/10.1007/JHEP01(2026)140) ·
+[Physics and geometry of complex-structure limits](https://doi.org/10.1007/JHEP03(2026)063)
 :::
 
 ::: {.research-card}
-### Asymptotic Hodge theory
+### Asymptotic Hodge theory {#hodge-theory}
 
-Periods of Calabi–Yau manifolds determine many physical couplings, but their exact form
-is often inaccessible. Nilpotent-orbit and $SL(2)$-orbit techniques provide universal
-control near singular boundaries.
+**Question.** How can one extract reliable physics when exact Calabi–Yau periods are
+unknown or computationally inaccessible?
 
-I develop these mathematical results into calculational tools for moduli-space metrics,
-gauge couplings, flux potentials, BPS masses, and the structure of multi-parameter
-degenerations.
+**Approach.** Nilpotent-orbit and $SL(2)$-orbit techniques provide universal control near
+singular boundaries. I develop these mathematical structures into calculational tools
+for moduli-space metrics, gauge couplings, flux potentials, BPS masses, and
+multi-parameter limits.
+
+**Why it matters.** This replaces model-by-model calculations with structural methods
+that apply across large classes of compactifications.
+
+**Related work:** [Finiteness and flux counting](https://doi.org/10.1007/JHEP08(2024)039) ·
+[Bi-Yang–Baxter models and $SL(2)$-orbits](https://doi.org/10.1007/JHEP11(2023)123)
 :::
 
 ::: {.research-card}
-### Quantum obstructions in $\mathcal{N}=1$ theories
+### Quantum obstructions in $\mathcal{N}=1$ theories {#quantum-obstructions}
 
-A limit that appears consistent in a classical effective action need not survive quantum
-corrections. In four-dimensional $\mathcal{N}=1$ compactifications, different moduli
-sectors generically fail to factorise at the quantum level.
+**Question.** Does a classical infinite-distance limit remain meaningful after quantum
+effects are included?
 
-My work studies how string-coupling and Kähler-sector corrections can obstruct pure
-complex-structure limits, requiring correlated trajectories through the full field space.
+**Approach.** I study how complex-structure limits backreact on the string-coupling and
+Kähler sectors in Type IIB/F-theory compactifications. Worldsheet consistency,
+instanton corrections, and the geometry of elliptic Calabi–Yau fourfolds provide
+complementary diagnostics.
+
+**Why it matters.** A trajectory that looks consistent in a factorised classical action
+can fail in the genuine quantum theory, with consequences for asymptotic control and
+string model building.
+
+**Related work:** [Part I: $g_s$ obstructions](https://doi.org/10.1103/blb9-hrwd) ·
+[Part II: Kähler obstructions](https://doi.org/10.1103/ypyx-mg6r)
 :::
 
 ::: {.research-card}
-### Finiteness and the flux landscape
+### Finiteness and the flux landscape {#finiteness}
 
-String compactifications admit large families of flux vacua. A fundamental problem is
-to understand which sets of vacua are finite, how complicated they can be, and how they
-accumulate near boundaries of moduli space.
+**Question.** When are families of flux vacua finite, and how complicated can their
+distribution become near singular regions of moduli space?
 
-I use asymptotic Hodge theory together with ideas from tame and o-minimal geometry to
-formulate and investigate precise finiteness and counting questions.
+**Approach.** I combine asymptotic Hodge theory with tools from tame and o-minimal
+geometry to formulate precise finiteness statements and counting conjectures.
+
+**Why it matters.** Finiteness questions connect the local geometry of compactification
+spaces to the global structure and predictivity of the string landscape.
+
+**Related work:** [Finiteness theorems and counting conjectures](https://doi.org/10.1007/JHEP08(2024)039)
 :::
 
-</div>
-
-<!-- Current research directions intentionally omitted from the public website. -->
+::::
 
 ## Methodological perspective
 
-My research combines several layers that are often treated separately:
+My work operates across four mutually reinforcing levels:
 
-- **Effective field theory:** moduli-space metrics, BPS objects, towers of states, and
-  quantum corrections.
-- **Algebraic and differential geometry:** Calabi–Yau degenerations, fibrations,
-  singularities, and special Lagrangian cycles.
-- **Hodge theory:** period maps, limiting mixed Hodge structures, and asymptotic
-  $SL(2)$-data.
-- **Quantum-gravity constraints:** distance, emergence, finiteness, and consistency
-  conditions.
+- **Effective field theory:** field-space metrics, BPS objects, towers of states,
+  quantum corrections, and duality frames.
+- **Calabi–Yau geometry:** degenerations, fibrations, singularities, vanishing cycles,
+  and special Lagrangian geometry.
+- **Hodge theory:** period maps, limiting mixed Hodge structures, nilpotent orbits,
+  and asymptotic $SL(2)$ data.
+- **Quantum-gravity constraints:** distance, emergence, finiteness, and the limits of
+  perturbative control.
 
-<div class="info-box">
-The unifying aim is not only to classify possible asymptotic behaviours, but to identify
-the microscopic physics that realises them and the quantum effects that rule out
-apparently consistent classical limits.
-</div>
+::: {.info-box}
+The unifying objective is not only to classify asymptotic behaviours, but to identify
+their microscopic physics and determine which apparently consistent classical limits
+survive in the full quantum theory.
+:::
+
+::: {.page-cta}
+### Research discussions and collaboration
+
+I am happy to discuss related questions in string compactifications, moduli-space
+geometry, Hodge theory, and quantum-gravity constraints.
+
+[Contact me](mailto:jeroen.monnee@desy.de){.button-primary}
+[Browse publications](publications.qmd){.button-secondary}
+:::

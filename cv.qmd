@@ -1,15 +1,19 @@
 ---
 title: "Curriculum Vitae"
-description: "Academic curriculum vitae."
+description: "Academic curriculum vitae of Jeroen Monnee."
 toc: false
 ---
 
-The current PDF version of my academic CV is available below.
+::: {.lead}
+I am a postdoctoral researcher at the II. Institute for Theoretical Physics,
+University of Hamburg. My full academic CV is available below.
+:::
 
-<div class="cv-actions">
-  <a class="button-primary" href="files/Jeroen_Monnee_CV.pdf">Download CV as PDF</a>
-  <a class="button-secondary" href="mailto:jeroen.monnee@desy.de">Contact me</a>
-</div>
+::: {.profile-actions}
+[Download CV as PDF](files/Jeroen_Monnee_CV.pdf){.button-primary}
+[Institutional profile](https://www.physik.uni-hamburg.de/en/th2/ag-weigand/personen/monnee-jeroen.html){.button-secondary}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=b-PA-YYAAAAJ){.button-secondary}
+:::
 
 <object class="pdf-frame"
         data="files/Jeroen_Monnee_CV.pdf"
@@ -21,6 +25,6 @@ The current PDF version of my academic CV is available below.
 </object>
 
 <p class="small-note">
-To update this page later, replace <code>files/Jeroen_Monnee_CV.pdf</code> with a new
-PDF using the same filename.
+To update this page, replace <code>files/Jeroen_Monnee_CV.pdf</code> with a new PDF
+using the same filename.
 </p>

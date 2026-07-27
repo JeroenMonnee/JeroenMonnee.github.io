@@ -1,198 +1,260 @@
 ---
 title: "Publications"
-description: "Research publications and doctoral thesis."
+description: "Publications by Jeroen Monnee in string theory, quantum gravity, Hodge theory, and Calabi–Yau compactifications."
 toc: false
 ---
 
-For continuously updated records, see
-[INSPIRE-HEP](https://inspirehep.net/authors/1853394) and
-[ORCID](https://orcid.org/0000-0002-8744-4821).
+::: {.lead}
+My work spans infinite-distance limits, emergent strings, quantum corrections,
+asymptotic Hodge theory, flux vacua, and mathematical structures in integrable models.
+My name is shown in **bold** below.
+:::
+
+::: {.profile-actions}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=b-PA-YYAAAAJ){.button-primary}
+[INSPIRE-HEP](https://inspirehep.net/authors/1853394){.button-secondary}
+[ORCID](https://orcid.org/0000-0002-8744-4821){.button-secondary}
+:::
+
+::: {.small-note}
+DOI links lead to the publisher version; arXiv links provide open-access preprints.
+:::
 
 ## 2026
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2026
 :::
-::: {.publication-body}
-### Quantum obstructions for $\mathcal{N}=1$ infinite distance limits — Part II: Kähler obstructions
+:::: {.publication-body}
+### Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits — Part II: Kähler obstructions
 
 L. Kaufmann, **J. Monnee**, T. Weigand, and M. Wiesner
 
 *Physical Review D* **113**, 126028 (2026)
 
+::: {.pub-summary}
+Complex-structure limits generically backreact on the Kähler sector. Worldsheet and
+instanton arguments show that correlated scaling is required to retain perturbative control.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1103/ypyx-mg6r) ·
+[DOI](https://doi.org/10.1103/ypyx-mg6r) ·
 [arXiv:2603.13470](https://arxiv.org/abs/2603.13470)
 :::
-:::
 ::::
+:::::
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2026
 :::
-::: {.publication-body}
-### Quantum obstructions for $\mathcal{N}=1$ infinite distance limits — Part I: $g_s$ obstructions
+:::: {.publication-body}
+### Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits — Part I: $g_s$ obstructions
 
 L. Kaufmann, **J. Monnee**, T. Weigand, and M. Wiesner
 
 *Physical Review D* **113**, 126027 (2026)
 
+::: {.pub-summary}
+Non-perturbative string-coupling effects can become unsuppressed and can substantially
+modify, or in extreme cases remove, classical infinite-distance degenerations.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1103/blb9-hrwd) ·
+[DOI](https://doi.org/10.1103/blb9-hrwd) ·
 [arXiv:2603.12315](https://arxiv.org/abs/2603.12315)
 :::
-:::
 ::::
+:::::
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2026
 :::
-::: {.publication-body}
+:::: {.publication-body}
 ### $K$ points and Type IIB/heterotic duality with NS5-branes
 
 **J. Monnee**, T. Weigand, and M. Wiesner
 
 *Physical Review D* **113**, 066002 (2026)
 
+::: {.pub-summary}
+This work develops the physical interpretation of $K$-point limits through
+Type IIB/heterotic duality and the role of NS5-branes.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1103/kcbz-jf16) ·
+[DOI](https://doi.org/10.1103/kcbz-jf16) ·
 [arXiv:2510.02435](https://arxiv.org/abs/2510.02435)
 :::
-:::
 ::::
+:::::
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2026
 :::
-::: {.publication-body}
+:::: {.publication-body}
 ### Physics and geometry of complex-structure limits in Type IIB Calabi–Yau compactifications
 
 **J. Monnee**, T. Weigand, and M. Wiesner
 
 *Journal of High Energy Physics* **03**, 063 (2026)
 
+::: {.pub-summary}
+The type II, III, and IV classification is related to explicit special Lagrangian
+cycles, towers of BPS states, and decompactification to higher-dimensional theories.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1007/JHEP03(2026)063) ·
+[DOI](https://doi.org/10.1007/JHEP03(2026)063) ·
 [arXiv:2509.07056](https://arxiv.org/abs/2509.07056)
 :::
-:::
 ::::
+:::::
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2026
 :::
-::: {.publication-body}
+:::: {.publication-body}
 ### Emergent strings in Type IIB Calabi–Yau compactifications
 
 B. Hassfeld, **J. Monnee**, T. Weigand, and M. Wiesner
 
 *Journal of High Energy Physics* **01**, 140 (2026)
 
+::: {.pub-summary}
+A geometric construction identifies emergent heterotic strings and associated towers
+of light states in type II limits of Calabi–Yau complex-structure moduli space.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1007/JHEP01(2026)140) ·
+[DOI](https://doi.org/10.1007/JHEP01(2026)140) ·
 [arXiv:2504.01066](https://arxiv.org/abs/2504.01066)
 :::
-:::
 ::::
+:::::
 
 ## 2024
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2024
 :::
-::: {.publication-body}
+:::: {.publication-body}
 ### Finiteness theorems and counting conjectures for the flux landscape
 
 T. W. Grimm and **J. Monnee**
 
 *Journal of High Energy Physics* **08**, 039 (2024)
 
+::: {.pub-summary}
+Asymptotic Hodge theory and tame geometry are used to establish finiteness structures
+and formulate counting questions for flux vacua.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1007/JHEP08(2024)039) ·
+[DOI](https://doi.org/10.1007/JHEP08(2024)039) ·
 [arXiv:2311.09295](https://arxiv.org/abs/2311.09295)
 :::
-:::
 ::::
+:::::
 
 ## 2023
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2023
 :::
-::: {.publication-body}
+:::: {.publication-body}
 ### Bi-Yang–Baxter models and $SL(2)$-orbits
 
 T. W. Grimm and **J. Monnee**
 
 *Journal of High Energy Physics* **11**, 123 (2023)
 
+::: {.pub-summary}
+The paper develops the relation between integrable sigma models and the asymptotic
+$SL(2)$ structures that govern degenerating Hodge theory.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1007/JHEP11(2023)123) ·
+[DOI](https://doi.org/10.1007/JHEP11(2023)123) ·
 [arXiv:2212.03893](https://arxiv.org/abs/2212.03893)
 :::
-:::
 ::::
+:::::
 
 ## 2022
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2022
 :::
-::: {.publication-body}
+:::: {.publication-body}
 ### Deformed WZW models and Hodge theory — Part I
 
 T. W. Grimm and **J. Monnee**
 
 *Journal of High Energy Physics* **05**, 103 (2022)
 
+::: {.pub-summary}
+A class of solutions in deformed WZW models is shown to describe variations of
+Hodge structure, connecting integrable models to period mappings.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1007/JHEP05(2022)103) ·
+[DOI](https://doi.org/10.1007/JHEP05(2022)103) ·
 [arXiv:2112.00031](https://arxiv.org/abs/2112.00031)
 :::
-:::
 ::::
+:::::
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2022
 :::
-::: {.publication-body}
+:::: {.publication-body}
 ### Bulk reconstruction in moduli-space holography
 
 T. W. Grimm, **J. Monnee**, and D. van de Heisteeg
 
 *Journal of High Energy Physics* **05**, 010 (2022)
 
+::: {.pub-summary}
+Near-boundary solutions are reconstructed from $SL(2)$ boundary data using recursion
+relations originating in the proof of the $SL(2)$-orbit theorem.
+:::
+
 ::: {.pub-links}
-[Journal](https://doi.org/10.1007/JHEP05(2022)010) ·
+[DOI](https://doi.org/10.1007/JHEP05(2022)010) ·
 [arXiv:2103.12746](https://arxiv.org/abs/2103.12746)
 :::
-:::
 ::::
+:::::
 
 ## Doctoral thesis
 
-:::: {.publication}
-::: {.pub-year}
+::::: {.publication}
+:::: {.pub-year}
 2024
 :::
-::: {.publication-body}
+:::: {.publication-body}
 ### Asymptotic Hodge Theory in String Compactifications and Integrable Systems
 
 **J. Monnee**
 
 PhD thesis, Utrecht University (2024)
 
+::: {.pub-summary}
+The thesis develops asymptotic Hodge-theoretic methods and applies them to string
+compactifications, flux landscapes, moduli-space holography, and integrable models.
+:::
+
 ::: {.pub-links}
 [arXiv:2409.06794](https://arxiv.org/abs/2409.06794)
 :::
-:::
 ::::
+:::::

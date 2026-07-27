@@ -1,8 +1,44 @@
 ---
 title: "Teaching & Supervision"
-description: "Teaching, thesis supervision, and advanced training."
+description: "Teaching experience, thesis supervision, and advanced academic training."
 toc: true
 ---
+
+::: {.lead}
+I aim to make advanced theoretical physics accessible without hiding its mathematical
+structure. In teaching and supervision, I emphasise the connection between formal
+derivations, physical intuition, and independent problem solving.
+:::
+
+::::: {.teaching-summary}
+:::: {.teaching-stat}
+::: {.teaching-stat-number}
+4
+:::
+::: {.teaching-stat-label}
+MSc theses supervised
+:::
+::::
+
+:::: {.teaching-stat}
+::: {.teaching-stat-number}
+2
+:::
+::: {.teaching-stat-label}
+BSc theses supervised
+:::
+::::
+
+:::: {.teaching-stat}
+::: {.teaching-stat-number}
+BSc & MSc
+:::
+::: {.teaching-stat-label}
+Teaching experience
+:::
+::::
+
+:::::
 
 ## Teaching
 
@@ -50,6 +86,16 @@ University.
 
 - **2021 — Hanneke Schroten**  
   *Geodesics in semi-Riemannian geometry and links to general relativity*
+
+::: {.page-cta}
+### For students
+
+Students interested in string theory, quantum gravity, Hodge theory, or related
+mathematical physics are welcome to contact me about reading projects and possible
+thesis topics, subject to local supervision arrangements.
+
+[Contact me](mailto:jeroen.monnee@desy.de){.button-primary}
+:::
 
 ## Advanced schools
 

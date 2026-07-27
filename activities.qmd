@@ -1,8 +1,22 @@
 ---
-title: "Academic Activities"
-description: "Invited talks, conference contributions, posters, and academic service."
+title: "Talks & Service"
+description: "Invited talks, conference contributions, academic service, and outreach."
 toc: true
 ---
+
+::: {.lead}
+I regularly present my work in string-theory and mathematical-physics seminars and
+conferences. I also contribute to the research community through seminar organisation,
+peer review, workshop organisation, and outreach.
+:::
+
+::: {.page-cta .compact-cta}
+### Seminar invitations
+
+For seminar or workshop invitations, please contact me by email.
+
+[Email](mailto:jeroen.monnee@desy.de){.button-primary}
+:::
 
 ## Invited talks and seminars
 
@@ -15,7 +29,7 @@ Jun 2026
 :::: {.timeline-content}
 ### Utrecht University — String Theory Seminar
 
-Emergent strings and quantum obstructions in infinite-distance limits of Type IIB string theory
+*Emergent strings and quantum obstructions in infinite-distance limits of Type IIB string theory*
 ::::
 :::::
 
@@ -26,7 +40,7 @@ Mar 2026
 :::: {.timeline-content}
 ### IFT Madrid — SPS Journal Club
 
-Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits
+*Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits*
 ::::
 :::::
 
@@ -37,7 +51,7 @@ Feb 2026
 :::: {.timeline-content}
 ### KU Leuven — Joint Belgian HEP–TH Seminar
 
-Emergent strings and Kaluza–Klein towers in type II, III, and IV limits
+*Emergent strings and Kaluza–Klein towers in type II, III, and IV limits*
 ::::
 :::::
 
@@ -48,7 +62,7 @@ Nov 2025
 :::: {.timeline-content}
 ### Harvard University — Swampland Group Lunch
 
-Towers of light states in Type IIB complex-structure degenerations
+*Towers of light states in Type IIB complex-structure degenerations*
 ::::
 :::::
 
@@ -59,7 +73,7 @@ Oct 2025
 :::: {.timeline-content}
 ### Seminar Series on String Phenomenology
 
-The II, III, IV of Calabi–Yau degenerations
+*The II, III, IV of Calabi–Yau degenerations*
 ::::
 :::::
 
@@ -70,7 +84,7 @@ Mar 2025
 :::: {.timeline-content}
 ### Heidelberg University — String Theory and Beyond the Standard Model Seminar
 
-Asymptotics in complex-structure moduli space and degenerations of Calabi–Yau manifolds
+*Asymptotics in complex-structure moduli space and degenerations of Calabi–Yau manifolds*
 ::::
 :::::
 
@@ -81,7 +95,7 @@ Nov 2024
 :::: {.timeline-content}
 ### University of Hamburg — Swampland Seminar
 
-Charting the string landscape with asymptotic Hodge theory
+*Charting the string landscape with asymptotic Hodge theory*
 ::::
 :::::
 
@@ -92,7 +106,7 @@ May 2024
 :::: {.timeline-content}
 ### Swamplandia 2024, Bavaria — Invited conference talk
 
-Complexity of the flux landscape
+*Complexity of the flux landscape*
 ::::
 :::::
 
@@ -103,7 +117,7 @@ Dec 2023
 :::: {.timeline-content}
 ### Seminar Series on String Phenomenology
 
-Complexity of the flux landscape
+*Complexity of the flux landscape*
 ::::
 :::::
 
@@ -114,7 +128,7 @@ Jun 2022
 :::: {.timeline-content}
 ### Seminar Series on String Phenomenology
 
-Bulk reconstruction in moduli-space holography
+*Bulk reconstruction in moduli-space holography*
 ::::
 :::::
 
@@ -131,7 +145,7 @@ Jul 2026
 :::: {.timeline-content}
 ### String Phenomenology 2026, Paris
 
-EFT strings and quantum obstructions to four-dimensional $\mathcal{N}=1$ limits
+*EFT strings and quantum obstructions to four-dimensional $\mathcal{N}=1$ limits*
 ::::
 :::::
 
@@ -142,7 +156,7 @@ Jul 2025
 :::: {.timeline-content}
 ### String Phenomenology 2025, Boston
 
-Emergent strings in type II$_b$ limits of Type IIB string theory
+*Emergent strings in type II$_b$ limits of Type IIB string theory*
 ::::
 :::::
 
@@ -153,7 +167,7 @@ Jul 2023
 :::: {.timeline-content}
 ### String Phenomenology 2023, Daejeon
 
-Finiteness of flux vacua and the tadpole conjecture
+*Finiteness of flux vacua and the tadpole conjecture*
 ::::
 :::::
 
@@ -164,7 +178,7 @@ Jul 2022
 :::: {.timeline-content}
 ### String Phenomenology 2022, Liverpool
 
-Hodge theory and deformed WZW models
+*Hodge theory and deformed WZW models*
 ::::
 :::::
 
@@ -172,22 +186,48 @@ Hodge theory and deformed WZW models
 
 ## Selected poster presentations
 
-- **Strings and Geometry 2026, Uppsala:** Quantum Kähler obstructions to
-  $\mathcal{N}=1$ infinite-distance limits.
-- **Strings and Geometry 2024, Hamburg:** Complexity of the flux landscape.
-- **Strings and Geometry 2022, Utrecht:** Asymptotic Hodge theory and deformed WZW
-  models; gong show and poster presentation.
+- **Strings and Geometry 2026, Uppsala:** *Quantum Kähler obstructions to
+  $\mathcal{N}=1$ infinite-distance limits*
+- **Strings and Geometry 2024, Hamburg:** *Complexity of the flux landscape*
+- **Strings and Geometry 2022, Utrecht:** *Asymptotic Hodge theory and deformed WZW
+  models* — gong show and poster presentation
 
 ## Academic service and organisation
 
-- **2025–present — String Theory Seminar, University of Hamburg and DESY:**  
-  Co-organiser of the weekly seminar series.
-- **Peer review:** Referee for the *Journal of High Energy Physics*.
-- **2021–2023 — Alumni Talks, Utrecht University:**  
-  Co-organiser of a recurring seminar series in which alumni of the theoretical-physics
-  MSc and PhD programmes presented career paths beyond academia.
-- **2022 — Strings and Geometry, Utrecht University:**  
-  Co-organiser of the workshop.
+:::: {.service-grid}
+
+::: {.service-card}
+### Seminar organisation
+
+**2025–present — String Theory Seminar, University of Hamburg and DESY**
+
+Co-organiser of the weekly seminar series.
+:::
+
+::: {.service-card}
+### Peer review
+
+Referee for the *Journal of High Energy Physics*.
+:::
+
+::: {.service-card}
+### Alumni Talks
+
+**2021–2023 — Utrecht University**
+
+Co-organiser of a recurring series in which theoretical-physics alumni discussed
+career paths beyond academia.
+:::
+
+::: {.service-card}
+### Workshop organisation
+
+**2022 — Strings and Geometry, Utrecht University**
+
+Co-organiser of the workshop.
+:::
+
+::::
 
 ## Outreach
 
