@@ -803,3 +803,196 @@ a {
     max-width: 100% !important;
   }
 }
+/* =========================================================
+   Hero placement refinement — v5.2
+   Matches the approved reference composition.
+   ========================================================= */
+
+/*
+  Use the existing artwork without altering it. The image is shifted slightly
+  to the right, leaving a dark, quiet area on the left for the white title.
+*/
+.hero-stage {
+  position: relative !important;
+  isolation: isolate;
+  overflow: hidden;
+  min-height: clamp(585px, 61vw, 700px);
+  display: flex !important;
+  align-items: center !important;
+  background-image: url("assets/geometry-emergence-quantum-consistency.png") !important;
+  background-position: 58% center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Dark left-hand scrim: makes all white hero text clearly legible. */
+.hero-stage::before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(
+      90deg,
+      rgba(6, 8, 11, 0.96) 0%,
+      rgba(6, 8, 11, 0.88) 26%,
+      rgba(6, 8, 11, 0.58) 43%,
+      rgba(6, 8, 11, 0.18) 61%,
+      rgba(6, 8, 11, 0.02) 78%
+    );
+}
+
+/* Soft transition into the profile cards below the image. */
+.hero-stage::after {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 150px;
+  pointer-events: none;
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255, 249, 244, 0) 0%,
+      rgba(255, 249, 244, 0.16) 42%,
+      rgba(255, 249, 244, 0.94) 100%
+    );
+}
+
+.hero-inner {
+  position: relative !important;
+  z-index: 2 !important;
+  width: min(1180px, calc(100% - 3rem)) !important;
+  margin: 0 auto !important;
+  padding: 4.25rem 0 7.1rem !important;
+}
+
+.hero-copy {
+  position: relative !important;
+  z-index: 3 !important;
+  width: min(430px, 100%) !important;
+  max-width: 430px !important;
+  margin: 0 !important;
+}
+
+/* The white name is unequivocally part of the artwork/hero area. */
+.hero-name {
+  position: relative !important;
+  z-index: 4 !important;
+  display: block !important;
+  margin: 0 0 1.55rem !important;
+  color: #ffffff !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: clamp(3rem, 5.1vw, 4.55rem) !important;
+  font-weight: 500 !important;
+  line-height: 0.98 !important;
+  letter-spacing: -0.038em !important;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.48) !important;
+  opacity: 1 !important;
+}
+
+.hero-role,
+.hero-affiliation,
+.hero-title,
+.hero-lead,
+.hero-actions {
+  position: relative !important;
+  z-index: 4 !important;
+}
+
+.hero-role {
+  color: #ef744e !important;
+}
+
+.hero-affiliation,
+.hero-title,
+.hero-lead {
+  color: #ffffff !important;
+  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.42) !important;
+}
+
+.hero-title {
+  max-width: 410px !important;
+  font-size: clamp(2rem, 3.15vw, 2.7rem) !important;
+}
+
+.hero-lead {
+  max-width: 410px !important;
+  line-height: 1.62 !important;
+}
+
+/*
+  Prevent a Quarto page title from taking up space above the artwork if a cached
+  or theme-generated title block is present.
+*/
+.home-page ~ .quarto-title-block,
+body:has(.home-page) .quarto-title-block {
+  display: none !important;
+}
+
+/* Keep the profile cards overlapping the lower edge of the hero. */
+.profile-band {
+  position: relative !important;
+  z-index: 6 !important;
+  margin-top: -42px !important;
+}
+
+@media (min-width: 1400px) {
+  .hero-stage {
+    background-position: 60% center !important;
+  }
+}
+
+@media (max-width: 980px) {
+  .hero-stage {
+    background-position: 61% center !important;
+  }
+
+  .hero-copy {
+    max-width: 420px !important;
+  }
+}
+
+@media (max-width: 760px) {
+  .hero-stage {
+    min-height: 720px !important;
+    align-items: flex-end !important;
+    background-position: 64% center !important;
+  }
+
+  .hero-stage::before {
+    background:
+      linear-gradient(
+        90deg,
+        rgba(6, 8, 11, 0.90) 0%,
+        rgba(6, 8, 11, 0.76) 66%,
+        rgba(6, 8, 11, 0.32) 100%
+      );
+  }
+
+  .hero-inner {
+    width: min(100% - 1.5rem, 1180px) !important;
+    padding: 4rem 0 6.3rem !important;
+  }
+
+  .hero-copy {
+    width: 100% !important;
+    max-width: 470px !important;
+  }
+
+  .hero-name {
+    font-size: clamp(2.7rem, 12vw, 4rem) !important;
+  }
+
+  .hero-title,
+  .hero-lead {
+    max-width: 100% !important;
+  }
+
+  .profile-band {
+    margin-top: -30px !important;
+  }
+}
