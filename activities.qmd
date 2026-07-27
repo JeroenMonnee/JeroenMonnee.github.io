@@ -1,0 +1,153 @@
+---
+title: "Academic Activities"
+description: "Invited talks, conference contributions, posters, and academic service."
+toc: true
+---
+
+## Invited talks and seminars
+
+<div class="timeline">
+
+::: {.timeline-item}
+<div class="timeline-date">Jun 2026</div>
+<div class="timeline-content">
+<h3>Utrecht University — String Theory Seminar</h3>
+<p>Emergent strings and quantum obstructions in infinite-distance limits of Type IIB string theory</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Mar 2026</div>
+<div class="timeline-content">
+<h3>IFT Madrid — SPS Journal Club</h3>
+<p>Quantum obstructions for \(\mathcal{N}=1\) infinite-distance limits</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Feb 2026</div>
+<div class="timeline-content">
+<h3>KU Leuven — Joint Belgian HEP–TH Seminar</h3>
+<p>Emergent strings and Kaluza–Klein towers in type II, III, and IV limits</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Nov 2025</div>
+<div class="timeline-content">
+<h3>Harvard University — Swampland Group Lunch</h3>
+<p>Towers of light states in Type IIB complex-structure degenerations</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Oct 2025</div>
+<div class="timeline-content">
+<h3>Seminar Series on String Phenomenology</h3>
+<p>The II, III, IV of Calabi–Yau degenerations</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Mar 2025</div>
+<div class="timeline-content">
+<h3>Heidelberg University — String Theory and Beyond the Standard Model Seminar</h3>
+<p>Asymptotics in complex-structure moduli space and degenerations of Calabi–Yau manifolds</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Nov 2024</div>
+<div class="timeline-content">
+<h3>University of Hamburg — Swampland Seminar</h3>
+<p>Charting the string landscape with asymptotic Hodge theory</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">May 2024</div>
+<div class="timeline-content">
+<h3>Swamplandia 2024, Bavaria — Invited conference talk</h3>
+<p>Complexity of the flux landscape</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Dec 2023</div>
+<div class="timeline-content">
+<h3>Seminar Series on String Phenomenology</h3>
+<p>Complexity of the flux landscape</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Jun 2022</div>
+<div class="timeline-content">
+<h3>Seminar Series on String Phenomenology</h3>
+<p>Bulk reconstruction in moduli-space holography</p>
+</div>
+:::
+
+</div>
+
+## Contributed talks
+
+<div class="timeline">
+
+::: {.timeline-item}
+<div class="timeline-date">Jul 2026</div>
+<div class="timeline-content">
+<h3>String Phenomenology 2026, Paris</h3>
+<p>EFT strings and quantum obstructions to four-dimensional \(\mathcal{N}=1\) limits</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Jul 2025</div>
+<div class="timeline-content">
+<h3>String Phenomenology 2025, Boston</h3>
+<p>Emergent strings in type II\(_b\) limits of Type IIB string theory</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Jul 2023</div>
+<div class="timeline-content">
+<h3>String Phenomenology 2023, Daejeon</h3>
+<p>Finiteness of flux vacua and the tadpole conjecture</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Jul 2022</div>
+<div class="timeline-content">
+<h3>String Phenomenology 2022, Liverpool</h3>
+<p>Hodge theory and deformed WZW models</p>
+</div>
+:::
+
+</div>
+
+## Selected poster presentations
+
+- **Strings and Geometry 2026, Uppsala:** Quantum Kähler obstructions to
+  \(\mathcal{N}=1\) infinite-distance limits.
+- **Strings and Geometry 2024, Hamburg:** Complexity of the flux landscape.
+- **Strings and Geometry 2022, Utrecht:** Asymptotic Hodge theory and deformed WZW
+  models; gong show and poster presentation.
+
+## Academic service and organisation
+
+- **2025–present — String Theory Seminar, University of Hamburg and DESY:**  
+  Co-organiser of the weekly seminar series.
+- **Peer review:** Referee for the *Journal of High Energy Physics*.
+- **2021–2023 — Alumni Talks, Utrecht University:**  
+  Co-organiser of a recurring seminar series in which alumni of the theoretical-physics
+  MSc and PhD programmes presented career paths beyond academia.
+- **2022 — Strings and Geometry, Utrecht University:**  
+  Co-organiser of the workshop.
+
+## Outreach
+
+**Vierkant voor Wiskunde, 2016–present** — Volunteer organiser and instructor at an
+annual mathematics summer camp for children aged 8–12.

@@ -1,0 +1,26 @@
+---
+title: "Curriculum Vitae"
+description: "Academic curriculum vitae."
+toc: false
+---
+
+The current PDF version of my academic CV is available below.
+
+<div class="cv-actions">
+  <a class="button-primary" href="files/Jeroen_Monnee_CV.pdf">Download CV as PDF</a>
+  <a class="button-secondary" href="mailto:jeroen.monnee@desy.de">Contact me</a>
+</div>
+
+<object class="pdf-frame"
+        data="files/Jeroen_Monnee_CV.pdf"
+        type="application/pdf">
+  <p>
+    Your browser cannot display the embedded PDF.
+    <a href="files/Jeroen_Monnee_CV.pdf">Download the CV here.</a>
+  </p>
+</object>
+
+<p class="small-note">
+To update this page later, replace <code>files/Jeroen_Monnee_CV.pdf</code> with a new
+PDF using the same filename.
+</p>

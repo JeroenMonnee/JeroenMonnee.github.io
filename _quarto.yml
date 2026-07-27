@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/**
+    - assets/**
+
+website:
+  title: "Jeroen Monnee"
+  site-url: "https://jeroenmonnee.github.io"
+  description: "Academic website of Jeroen Monnee, theoretical physicist working on string theory, quantum gravity, Hodge theory, and Calabi–Yau compactifications."
+  favicon: assets/favicon.svg
+  open-graph: true
+  search:
+    location: navbar
+    type: overlay
+  back-to-top-navigation: true
+  navbar:
+    pinned: true
+    collapse-below: lg
+    logo: assets/logo.svg
+    logo-alt: "JM"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Activities"
+        href: activities.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/JeroenMonnee
+        aria-label: GitHub
+  page-footer:
+    border: true
+    left: "© 2026 Jeroen Monnee"
+    right: "Built with [Quarto](https://quarto.org/) · Hosted on [GitHub Pages](https://pages.github.com/)"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+
+lang: en

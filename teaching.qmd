@@ -1,0 +1,62 @@
+---
+title: "Teaching & Supervision"
+description: "Teaching, thesis supervision, and advanced training."
+toc: true
+---
+
+## Teaching
+
+### Lecturer and tutor
+
+- **2025–2026 — Student Seminar: Supersymmetry and Superstrings**  
+  MSc Physics, University of Hamburg. Course instruction and supervision of student
+  presentations.
+
+- **2025 — Mathematical Methods B**  
+  BSc Nanophysics, University of Hamburg. Lecturer and tutor.
+
+### Teaching assistant
+
+- **2026 — Theoretical Physics II: Quantum Mechanics**  
+  BSc Physics, University of Hamburg.
+
+- **2020–2023 — String Theory, General Relativity, Quantum Field Theory, and
+  Field Theory in Particle Physics**  
+  MSc Theoretical Physics, Utrecht University.
+
+## Thesis supervision
+
+I have served as day-to-day supervisor of four MSc and two BSc theses at Utrecht
+University.
+
+### MSc theses
+
+- **2023–2024 — Lars Verboven**  
+  *Complexity in F-theory flux compactifications and counting vacua*
+
+- **2023–2024 — Luuk Lagendijk**  
+  *On the connection between Hodge theory and integrable systems*
+
+- **2021–2022 — Christoph Sieling**  
+  *Chiral matter in F-theory compactifications*
+
+- **2020–2021 — Arno Hoefnagels**  
+  *Conformal quantum mechanics in holography and Hodge theory*
+
+### BSc theses
+
+- **2024 — Lara Timmers**  
+  *Einstein's general relativity: symmetries in curved spacetime*
+
+- **2021 — Hanneke Schroten**  
+  *Geodesics in semi-Riemannian geometry and links to general relativity*
+
+## Advanced schools
+
+- **2023 — Amsterdam String Cosmology School**  
+  *The Quantum Gravity Swampland and its consequences for the observable world*
+
+- **2022 and 2023 — DRSTP Postgraduate School in Theoretical High-Energy Physics**
+
+- **2020 — Amsterdam–Brussels–Geneva–Paris Doctoral School**  
+  *Quantum Field Theory, Strings and Gravity*

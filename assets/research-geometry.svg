@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="620" viewBox="0 0 760 620" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract geometry motif</title>
+  <desc id="desc">Nested curves, fibres, and intersection points inspired by moduli spaces and Calabi–Yau degenerations.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="700" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17324d"/>
+      <stop offset="1" stop-color="#0d5960"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(382 300) rotate(90) scale(245 270)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="150" y1="100" x2="640" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f2d28d"/>
+      <stop offset=".52" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#7ed0c8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#041c29" flood-opacity=".35"/>
+    </filter>
+  </defs>
+
+  <rect x="45" y="40" width="670" height="540" rx="64" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="45" y="40" width="670" height="540" rx="64" fill="url(#halo)"/>
+
+  <g fill="none" stroke="url(#line)" stroke-linecap="round">
+    <ellipse cx="380" cy="309" rx="240" ry="95" stroke-width="3.2" opacity=".8" transform="rotate(-17 380 309)"/>
+    <ellipse cx="380" cy="309" rx="212" ry="123" stroke-width="2.4" opacity=".72" transform="rotate(27 380 309)"/>
+    <ellipse cx="380" cy="309" rx="172" ry="165" stroke-width="2.2" opacity=".68" transform="rotate(72 380 309)"/>
+    <path d="M122 402C202 160 344 111 591 176C664 195 685 260 645 337C591 442 401 507 230 466C147 446 102 424 122 402Z" stroke-width="2.8" opacity=".78"/>
+    <path d="M155 217C256 115 468 94 620 239C711 326 596 491 416 506C239 522 89 381 155 217Z" stroke-width="1.8" opacity=".58"/>
+    <path d="M212 482C300 382 318 205 480 145C561 115 625 146 654 198" stroke-width="3.1" opacity=".76"/>
+    <path d="M122 327C233 344 332 352 407 296C504 223 552 179 653 205" stroke-width="2.1" opacity=".65"/>
+  </g>
+
+  <g fill="#f2d28d">
+    <circle cx="213" cy="400" r="7"/>
+    <circle cx="371" cy="309" r="8"/>
+    <circle cx="538" cy="230" r="6"/>
+  </g>
+
+  <g fill="#7ed0c8">
+    <circle cx="280" cy="220" r="5"/>
+    <circle cx="492" cy="408" r="7"/>
+    <circle cx="610" cy="338" r="5"/>
+  </g>
+
+  <g fill="#ffffff" opacity=".75">
+    <circle cx="165" cy="274" r="3"/>
+    <circle cx="432" cy="163" r="3"/>
+    <circle cx="326" cy="462" r="3"/>
+    <circle cx="578" cy="440" r="3"/>
+  </g>
+
+  <path d="M115 128h105" stroke="#f2d28d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M115 147h62" stroke="#ffffff" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
+</svg>

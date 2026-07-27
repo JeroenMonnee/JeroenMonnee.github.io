@@ -1,0 +1,108 @@
+---
+title: "Research"
+description: "My research programme at the intersection of string theory, quantum gravity, and algebraic geometry."
+toc: true
+---
+
+<p class="lead">
+My central question is how a low-energy effective theory reveals whether it can arise
+from a consistent theory of quantum gravity. In string compactifications, much of this
+information is encoded in the geometry of moduli spaces and in the behaviour of the
+theory near their boundaries.
+</p>
+
+## Research programme
+
+<div class="research-grid">
+
+::: {.research-card}
+### Infinite-distance limits and emergent strings
+
+Infinite-distance limits are regimes in which an effective theory develops an infinite
+tower of light states. I study how these towers arise geometrically in Calabi–Yau
+compactifications and whether the limiting theory is governed by a weakly coupled
+critical string or by decompactification to a higher-dimensional theory.
+
+A major goal is to connect the Hodge-theoretic classification of type II, III, and IV
+degenerations to explicit geometric cycles, BPS states, effective strings, and their
+higher-dimensional duality frames.
+:::
+
+::: {.research-card}
+### Asymptotic Hodge theory
+
+Periods of Calabi–Yau manifolds determine many physical couplings, but their exact form
+is often inaccessible. Nilpotent-orbit and \(SL(2)\)-orbit techniques provide universal
+control near singular boundaries.
+
+I develop these mathematical results into calculational tools for moduli-space metrics,
+gauge couplings, flux potentials, BPS masses, and the structure of multi-parameter
+degenerations.
+:::
+
+::: {.research-card}
+### Quantum obstructions in \(\mathcal{N}=1\) theories
+
+A limit that appears consistent in a classical effective action need not survive quantum
+corrections. In four-dimensional \(\mathcal{N}=1\) compactifications, different moduli
+sectors generically fail to factorise at the quantum level.
+
+My work studies how string-coupling and Kähler-sector corrections can obstruct pure
+complex-structure limits, requiring correlated trajectories through the full field space.
+:::
+
+::: {.research-card}
+### Finiteness and the flux landscape
+
+String compactifications admit large families of flux vacua. A fundamental problem is
+to understand which sets of vacua are finite, how complicated they can be, and how they
+accumulate near boundaries of moduli space.
+
+I use asymptotic Hodge theory together with ideas from tame and o-minimal geometry to
+formulate and investigate precise finiteness and counting questions.
+:::
+
+</div>
+
+## Current directions
+
+### Geodesics and asymptotic field-space geometry
+
+The Swampland Distance Conjecture is naturally formulated along geodesic trajectories,
+yet the metrics of general Calabi–Yau moduli spaces are not locally symmetric and can
+contain asymptotically degenerate directions. I am investigating how essential instanton
+corrections resolve these directions and how the resulting geodesics determine the
+physical rate at which towers become light.
+
+### Hodge loci, worldsheet CFT, and generalized symmetry
+
+Special loci in complex-structure moduli space can support additional arithmetic or
+geometric structure. I am exploring how such Hodge loci are represented in the
+worldsheet conformal field theory and whether they are characterised by additional
+topological defect lines and generalized symmetries.
+
+### Singular Calabi–Yau spaces and quantum gravity
+
+Compact singular Calabi–Yau geometries offer a controlled setting in which gauge,
+gravitational, and strongly coupled sectors interact. I am interested in extracting
+general quantum-gravity constraints directly from their degeneration and resolution
+structure.
+
+## Methodological perspective
+
+My research combines several layers that are often treated separately:
+
+- **Effective field theory:** moduli-space metrics, BPS objects, towers of states, and
+  quantum corrections.
+- **Algebraic and differential geometry:** Calabi–Yau degenerations, fibrations,
+  singularities, and special Lagrangian cycles.
+- **Hodge theory:** period maps, limiting mixed Hodge structures, and asymptotic
+  \(SL(2)\)-data.
+- **Quantum-gravity constraints:** distance, emergence, finiteness, and consistency
+  conditions.
+
+<div class="info-box">
+The unifying aim is not only to classify possible asymptotic behaviours, but to identify
+the microscopic physics that realises them and the quantum effects that rule out
+apparently consistent classical limits.
+</div>
