@@ -5,6 +5,7 @@ page-layout: full
 toc: false
 ---
 
+```{=html}
 <div class="home-page">
 <div class="home-shell">
 
@@ -164,3 +165,4 @@ toc: false
 
 </div>
 </div>
+```
