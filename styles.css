@@ -1,15 +1,17 @@
 :root {
-  --navy: #10283d;
-  --navy-2: #17324d;
-  --teal: #1d7a78;
-  --gold: #c79a3b;
-  --cream: #fbfaf7;
-  --paper: #ffffff;
-  --ink: #273544;
-  --muted: #687785;
-  --line: #dfe4e7;
-  --shadow: 0 18px 48px rgba(19, 43, 64, 0.10);
-  --shadow-soft: 0 8px 24px rgba(19, 43, 64, 0.07);
+  --navy: #4f352d;
+  --navy-2: #6c4437;
+  --teal: #b86749;
+  --gold: #d79b69;
+  --cream: #fff8f2;
+  --paper: #fffdfb;
+  --ink: #403936;
+  --muted: #776b65;
+  --line: #eadbd2;
+  --peach: #f1c8ae;
+  --apricot: #f6dfcf;
+  --shadow: 0 18px 48px rgba(89, 54, 41, 0.11);
+  --shadow-soft: 0 8px 24px rgba(89, 54, 41, 0.075);
 }
 
 a {
@@ -24,8 +26,9 @@ a {
 
 .home-page {
   background:
-    radial-gradient(circle at 80% 5%, rgba(29, 122, 120, 0.09), transparent 27rem),
-    linear-gradient(180deg, #fbfaf7 0%, #ffffff 48%, #fbfaf7 100%);
+    radial-gradient(circle at 80% 5%, rgba(216, 143, 100, 0.12), transparent 28rem),
+    radial-gradient(circle at 12% 18%, rgba(246, 223, 207, 0.62), transparent 22rem),
+    linear-gradient(180deg, #fff9f4 0%, #fffdfb 48%, #fff8f2 100%);
 }
 
 .home-shell {
@@ -222,8 +225,8 @@ a {
 .section-header h2 {
   margin: 0;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(2rem, 4vw, 3.15rem);
-  line-height: 1.08;
+  font-size: clamp(1.65rem, 2.8vw, 2.35rem);
+  line-height: 1.12;
 }
 
 .section-intro {
@@ -865,5 +868,197 @@ a {
 
   .compact-cta {
     display: block;
+  }
+}
+/* =========================================================
+   Warm-pastel homepage refinement — v4
+   ========================================================= */
+
+.hero::before {
+  background:
+    linear-gradient(135deg, rgba(255,253,251,0.95), rgba(250,232,220,0.78));
+  border-color: rgba(169, 95, 69, 0.10);
+}
+
+.eyebrow,
+.section-kicker,
+.work-meta,
+.signal-label,
+.research-art-kicker {
+  color: #ae6045;
+}
+
+.button-primary {
+  background: #9e563f;
+  box-shadow: 0 8px 20px rgba(123, 67, 48, 0.18);
+}
+
+.button-primary:hover {
+  background: #7f432f;
+}
+
+.button-secondary {
+  color: #6a4437;
+  border-color: rgba(169, 95, 69, 0.24);
+  background: rgba(255, 253, 251, 0.88);
+}
+
+.button-secondary:hover {
+  color: #6a4437;
+  background: #fffdfb;
+}
+
+.profile-link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1.35rem;
+}
+
+.profile-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 0.46rem 0.78rem;
+  border: 1px solid rgba(169, 95, 69, 0.20);
+  border-radius: 999px;
+  color: #9e563f !important;
+  background: rgba(255, 249, 244, 0.92);
+  font-size: 0.88rem;
+  font-weight: 750;
+  text-decoration: none !important;
+  box-shadow: 0 4px 12px rgba(89, 54, 41, 0.055);
+  transition:
+    transform 160ms ease,
+    background 160ms ease,
+    border-color 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.profile-link:hover {
+  color: #7f432f !important;
+  background: #fff;
+  border-color: rgba(169, 95, 69, 0.38);
+  box-shadow: 0 7px 18px rgba(89, 54, 41, 0.09);
+  transform: translateY(-2px);
+}
+
+.signal-strip,
+.theme-card,
+.work-card,
+.research-card,
+.publication,
+.service-card,
+.page-cta,
+.teaching-summary,
+.pdf-frame {
+  border-color: var(--line);
+  background: rgba(255, 253, 251, 0.94);
+}
+
+.theme-card:hover,
+.work-card:hover {
+  border-color: rgba(184, 103, 73, 0.34);
+}
+
+.research-art {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  min-height: clamp(330px, 42vw, 520px);
+  margin: 0 0 clamp(4.5rem, 8vw, 7rem);
+  overflow: hidden;
+  border: 1px solid rgba(169, 95, 69, 0.18);
+  border-radius: 1.3rem;
+  background-image:
+    linear-gradient(
+      180deg,
+      rgba(16, 15, 15, 0.04) 12%,
+      rgba(22, 17, 15, 0.20) 50%,
+      rgba(35, 24, 20, 0.88) 100%
+    ),
+    url("assets/geometry-emergence-quantum-consistency.png");
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 20px 52px rgba(69, 43, 33, 0.17);
+}
+
+.research-art::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, rgba(255, 183, 132, 0.08), transparent 35%),
+    radial-gradient(circle at 62% 35%, rgba(244, 167, 111, 0.08), transparent 28rem);
+}
+
+.research-art-copy {
+  position: relative;
+  z-index: 1;
+  max-width: 720px;
+  margin: clamp(1.2rem, 4vw, 3rem);
+  padding: 1.1rem 1.25rem;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 0.95rem;
+  color: rgba(255,255,255,0.86);
+  background: rgba(30, 22, 19, 0.54);
+  backdrop-filter: blur(7px);
+}
+
+.research-art-copy h2 {
+  margin: 0.28rem 0 0.55rem;
+  color: #fff8f2;
+  font-size: clamp(1.55rem, 3vw, 2.25rem);
+  line-height: 1.12;
+}
+
+.research-art-copy p {
+  margin-bottom: 0;
+  line-height: 1.63;
+}
+
+.research-art-kicker {
+  color: #efb58e;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.cta-panel {
+  background:
+    radial-gradient(circle at 92% 15%, rgba(244, 194, 157, 0.25), transparent 17rem),
+    linear-gradient(135deg, #51372f, #7a4b3b);
+  box-shadow: 0 22px 55px rgba(81, 55, 47, 0.20);
+}
+
+.card-link,
+.section-end-link a,
+.pub-links a,
+.work-links a {
+  color: #a4563d;
+}
+
+.card-link:hover,
+.section-end-link a:hover,
+.pub-links a:hover,
+.work-links a:hover {
+  color: #7d3f2e;
+}
+
+@media (max-width: 700px) {
+  .profile-link {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .research-art {
+    min-height: 430px;
+    background-position: 58% center;
+  }
+
+  .research-art-copy {
+    margin: 0.85rem;
   }
 }

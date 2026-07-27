@@ -87,15 +87,6 @@ University.
 - **2021 — Hanneke Schroten**  
   *Geodesics in semi-Riemannian geometry and links to general relativity*
 
-::: {.page-cta}
-### For students
-
-Students interested in string theory, quantum gravity, Hodge theory, or related
-mathematical physics are welcome to contact me about reading projects and possible
-thesis topics, subject to local supervision arrangements.
-
-[Contact me](mailto:jeroen.monnee@desy.de){.button-primary}
-:::
 
 ## Advanced schools
 

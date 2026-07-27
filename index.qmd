@@ -38,12 +38,12 @@ effective field theory, duality, and the microscopic origin of quantum gravity.
 [Download CV](files/Jeroen_Monnee_CV.pdf){.button-secondary}
 ::::
 
-:::: {.hero-links}
-[Email](mailto:jeroen.monnee@desy.de)
-[Institutional profile](https://www.physik.uni-hamburg.de/en/th2/ag-weigand/personen/monnee-jeroen.html)
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=b-PA-YYAAAAJ)
-[ORCID](https://orcid.org/0000-0002-8744-4821)
-[INSPIRE-HEP](https://inspirehep.net/authors/1853394)
+:::: {.profile-link-row}
+[✉ Email](mailto:jeroen.monnee@desy.de){.profile-link}
+[▦ Institutional profile](https://www.physik.uni-hamburg.de/en/th2/ag-weigand/personen/monnee-jeroen.html){.profile-link}
+[◆ Google Scholar](https://scholar.google.com/citations?hl=en&user=b-PA-YYAAAAJ){.profile-link}
+[◎ ORCID](https://orcid.org/0000-0002-8744-4821){.profile-link}
+[⚛ INSPIRE-HEP](https://inspirehep.net/authors/1853394){.profile-link}
 ::::
 
 :::::
@@ -78,6 +78,19 @@ Infinite distance, emergent strings, quantum corrections, and finiteness
 :::
 ::::
 
+:::::
+
+::::: {.research-art aria-label="Artistic illustration of Calabi-Yau geometry, an emergent string, and quantum obstructions"}
+:::: {.research-art-copy}
+::: {.research-art-kicker}
+Research in visual form
+:::
+## Geometry, emergence, and quantum consistency
+
+The floating geometry recalls the Calabi–Yau structures underlying string
+compactifications. The luminous filament represents an emergent string, while the
+fragmented surrounding trajectories evoke quantum obstructions to classical limits.
+::::
 :::::
 
 :::::: {.section-block}
@@ -219,9 +232,6 @@ accompanying towers of light states in a broad class of type II limits.
 ## Get in touch
 
 I welcome research discussions, collaboration enquiries, and seminar invitations.
-Students interested in string theory, mathematical physics, or geometry are also
-welcome to contact me about reading projects or possible thesis topics within the
-relevant institutional arrangements.
 ::::
 
 :::: {.cta-actions}

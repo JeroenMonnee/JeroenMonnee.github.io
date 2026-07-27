@@ -2,14 +2,14 @@
   <title id="title">JM monogram</title>
   <defs>
     <linearGradient id="ring" x1="10" y1="8" x2="88" y2="90" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#f2d28d"/>
-      <stop offset="1" stop-color="#7ed0c8"/>
+      <stop stop-color="#f1c19f"/>
+      <stop offset="1" stop-color="#c97857"/>
     </linearGradient>
   </defs>
   <circle cx="48" cy="48" r="42" fill="none" stroke="url(#ring)" stroke-width="4"/>
   <text x="48" y="60"
         text-anchor="middle"
-        fill="#ffffff"
+        fill="#fffaf6"
         font-family="Georgia, 'Times New Roman', serif"
         font-size="35"
         font-weight="700"

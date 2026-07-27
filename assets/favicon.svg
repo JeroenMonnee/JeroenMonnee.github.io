@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
   <title id="title">JM monogram</title>
-  <rect width="64" height="64" rx="14" fill="#10283d"/>
-  <circle cx="32" cy="32" r="24" fill="none" stroke="#f2d28d" stroke-width="2.5"/>
+  <rect width="64" height="64" rx="14" fill="#51372f"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#efb58e" stroke-width="2.5"/>
   <text x="32" y="40"
         text-anchor="middle"
-        fill="#ffffff"
+        fill="#fffaf6"
         font-family="Georgia, 'Times New Roman', serif"
         font-size="25"
         font-weight="700"

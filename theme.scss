@@ -1,15 +1,15 @@
 /*-- scss:defaults --*/
 
-// Edit these values to change the site's main colours.
-$primary: #17324d;
-$secondary: #1d7a78;
-$success: #1d7a78;
-$warning: #c79a3b;
-$body-bg: #fbfaf7;
-$body-color: #273544;
-$link-color: #176b70;
-$link-hover-color: #0e4f54;
-$border-color: #dfe4e7;
+// Warm, professional palette: muted terracotta, soft apricot, and warm neutrals.
+$primary: #a95f45;
+$secondary: #756a64;
+$success: #7a8b78;
+$warning: #d59a68;
+$body-bg: #fff9f4;
+$body-color: #403936;
+$link-color: #a4563d;
+$link-hover-color: #7d3f2e;
+$border-color: #eadbd2;
 
 $font-family-sans-serif:
   Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
@@ -18,12 +18,12 @@ $font-family-sans-serif:
 $headings-font-family:
   Georgia, "Times New Roman", serif;
 
-$headings-color: #142c43;
+$headings-color: #4f352d;
 $headings-font-weight: 650;
 
-$navbar-bg: #10283d;
-$navbar-fg: #ffffff;
-$navbar-hl: #f2d28d;
+$navbar-bg: #51372f;
+$navbar-fg: #fffaf6;
+$navbar-hl: #f0b992;
 
 $border-radius: 0.75rem;
 $border-radius-lg: 1.15rem;
@@ -42,7 +42,7 @@ h1, h2, h3 {
 }
 
 .navbar {
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.08);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.10);
 }
 
 .navbar-brand img {
@@ -55,7 +55,7 @@ h1, h2, h3 {
 }
 
 .navbar .nav-link.active {
-  color: #f2d28d !important;
+  color: #f0b992 !important;
 }
 
 #quarto-content {
