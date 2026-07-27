@@ -36,9 +36,9 @@ a {
 .hero {
   position: relative;
   display: grid;
-  grid-template-columns: 1.22fr 0.78fr;
+  grid-template-columns: minmax(0, 1fr);
   align-items: center;
-  gap: 3.5rem;
+  gap: 2rem;
   padding: clamp(4.5rem, 9vw, 8rem) 0 clamp(4rem, 7vw, 6rem);
 }
 
@@ -51,6 +51,10 @@ a {
   background:
     linear-gradient(135deg, rgba(255,255,255,0.92), rgba(244,248,247,0.70));
   border: 1px solid rgba(23, 50, 77, 0.08);
+}
+
+.hero-copy {
+  max-width: 1040px;
 }
 
 .eyebrow {
@@ -66,10 +70,11 @@ a {
   margin: 0;
   color: var(--navy);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(3.4rem, 8vw, 6.8rem);
+  font-size: clamp(2.9rem, 6.8vw, 5.6rem);
   font-weight: 650;
-  line-height: 0.95;
+  line-height: 1;
   letter-spacing: -0.055em;
+  white-space: nowrap;
 }
 
 .hero-role {
@@ -496,16 +501,7 @@ a {
 @media (max-width: 900px) {
   .hero {
     grid-template-columns: 1fr;
-    gap: 2rem;
-  }
-
-  .hero-visual {
-    order: -1;
-    justify-content: flex-end;
-  }
-
-  .hero-visual img {
-    width: min(75%, 380px);
+    gap: 1.5rem;
   }
 
   .section-header {
@@ -541,7 +537,8 @@ a {
   }
 
   .hero h1 {
-    font-size: clamp(3rem, 18vw, 4.8rem);
+    font-size: clamp(2.2rem, 11.5vw, 3.8rem);
+    white-space: nowrap;
   }
 
   .fact-strip {

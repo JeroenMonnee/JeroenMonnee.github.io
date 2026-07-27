@@ -6,132 +6,174 @@ toc: true
 
 ## Invited talks and seminars
 
-<div class="timeline">
+:::::: {.timeline}
 
-::: {.timeline-item}
-<div class="timeline-date">Jun 2026</div>
-<div class="timeline-content">
-<h3>Utrecht University — String Theory Seminar</h3>
-<p>Emergent strings and quantum obstructions in infinite-distance limits of Type IIB string theory</p>
-</div>
-:::
+::::: {.timeline-item}
+:::: {.timeline-date}
+Jun 2026
+::::
+:::: {.timeline-content}
+### Utrecht University — String Theory Seminar
 
-::: {.timeline-item}
-<div class="timeline-date">Mar 2026</div>
-<div class="timeline-content">
-<h3>IFT Madrid — SPS Journal Club</h3>
-<p>Quantum obstructions for \(\mathcal{N}=1\) infinite-distance limits</p>
-</div>
-:::
+Emergent strings and quantum obstructions in infinite-distance limits of Type IIB string theory
+::::
+:::::
 
-::: {.timeline-item}
-<div class="timeline-date">Feb 2026</div>
-<div class="timeline-content">
-<h3>KU Leuven — Joint Belgian HEP–TH Seminar</h3>
-<p>Emergent strings and Kaluza–Klein towers in type II, III, and IV limits</p>
-</div>
-:::
+::::: {.timeline-item}
+:::: {.timeline-date}
+Mar 2026
+::::
+:::: {.timeline-content}
+### IFT Madrid — SPS Journal Club
 
-::: {.timeline-item}
-<div class="timeline-date">Nov 2025</div>
-<div class="timeline-content">
-<h3>Harvard University — Swampland Group Lunch</h3>
-<p>Towers of light states in Type IIB complex-structure degenerations</p>
-</div>
-:::
+Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits
+::::
+:::::
 
-::: {.timeline-item}
-<div class="timeline-date">Oct 2025</div>
-<div class="timeline-content">
-<h3>Seminar Series on String Phenomenology</h3>
-<p>The II, III, IV of Calabi–Yau degenerations</p>
-</div>
-:::
+::::: {.timeline-item}
+:::: {.timeline-date}
+Feb 2026
+::::
+:::: {.timeline-content}
+### KU Leuven — Joint Belgian HEP–TH Seminar
 
-::: {.timeline-item}
-<div class="timeline-date">Mar 2025</div>
-<div class="timeline-content">
-<h3>Heidelberg University — String Theory and Beyond the Standard Model Seminar</h3>
-<p>Asymptotics in complex-structure moduli space and degenerations of Calabi–Yau manifolds</p>
-</div>
-:::
+Emergent strings and Kaluza–Klein towers in type II, III, and IV limits
+::::
+:::::
 
-::: {.timeline-item}
-<div class="timeline-date">Nov 2024</div>
-<div class="timeline-content">
-<h3>University of Hamburg — Swampland Seminar</h3>
-<p>Charting the string landscape with asymptotic Hodge theory</p>
-</div>
-:::
+::::: {.timeline-item}
+:::: {.timeline-date}
+Nov 2025
+::::
+:::: {.timeline-content}
+### Harvard University — Swampland Group Lunch
 
-::: {.timeline-item}
-<div class="timeline-date">May 2024</div>
-<div class="timeline-content">
-<h3>Swamplandia 2024, Bavaria — Invited conference talk</h3>
-<p>Complexity of the flux landscape</p>
-</div>
-:::
+Towers of light states in Type IIB complex-structure degenerations
+::::
+:::::
 
-::: {.timeline-item}
-<div class="timeline-date">Dec 2023</div>
-<div class="timeline-content">
-<h3>Seminar Series on String Phenomenology</h3>
-<p>Complexity of the flux landscape</p>
-</div>
-:::
+::::: {.timeline-item}
+:::: {.timeline-date}
+Oct 2025
+::::
+:::: {.timeline-content}
+### Seminar Series on String Phenomenology
 
-::: {.timeline-item}
-<div class="timeline-date">Jun 2022</div>
-<div class="timeline-content">
-<h3>Seminar Series on String Phenomenology</h3>
-<p>Bulk reconstruction in moduli-space holography</p>
-</div>
-:::
+The II, III, IV of Calabi–Yau degenerations
+::::
+:::::
 
-</div>
+::::: {.timeline-item}
+:::: {.timeline-date}
+Mar 2025
+::::
+:::: {.timeline-content}
+### Heidelberg University — String Theory and Beyond the Standard Model Seminar
+
+Asymptotics in complex-structure moduli space and degenerations of Calabi–Yau manifolds
+::::
+:::::
+
+::::: {.timeline-item}
+:::: {.timeline-date}
+Nov 2024
+::::
+:::: {.timeline-content}
+### University of Hamburg — Swampland Seminar
+
+Charting the string landscape with asymptotic Hodge theory
+::::
+:::::
+
+::::: {.timeline-item}
+:::: {.timeline-date}
+May 2024
+::::
+:::: {.timeline-content}
+### Swamplandia 2024, Bavaria — Invited conference talk
+
+Complexity of the flux landscape
+::::
+:::::
+
+::::: {.timeline-item}
+:::: {.timeline-date}
+Dec 2023
+::::
+:::: {.timeline-content}
+### Seminar Series on String Phenomenology
+
+Complexity of the flux landscape
+::::
+:::::
+
+::::: {.timeline-item}
+:::: {.timeline-date}
+Jun 2022
+::::
+:::: {.timeline-content}
+### Seminar Series on String Phenomenology
+
+Bulk reconstruction in moduli-space holography
+::::
+:::::
+
+::::::
 
 ## Contributed talks
 
-<div class="timeline">
+:::::: {.timeline}
 
-::: {.timeline-item}
-<div class="timeline-date">Jul 2026</div>
-<div class="timeline-content">
-<h3>String Phenomenology 2026, Paris</h3>
-<p>EFT strings and quantum obstructions to four-dimensional \(\mathcal{N}=1\) limits</p>
-</div>
-:::
+::::: {.timeline-item}
+:::: {.timeline-date}
+Jul 2026
+::::
+:::: {.timeline-content}
+### String Phenomenology 2026, Paris
 
-::: {.timeline-item}
-<div class="timeline-date">Jul 2025</div>
-<div class="timeline-content">
-<h3>String Phenomenology 2025, Boston</h3>
-<p>Emergent strings in type II\(_b\) limits of Type IIB string theory</p>
-</div>
-:::
+EFT strings and quantum obstructions to four-dimensional $\mathcal{N}=1$ limits
+::::
+:::::
 
-::: {.timeline-item}
-<div class="timeline-date">Jul 2023</div>
-<div class="timeline-content">
-<h3>String Phenomenology 2023, Daejeon</h3>
-<p>Finiteness of flux vacua and the tadpole conjecture</p>
-</div>
-:::
+::::: {.timeline-item}
+:::: {.timeline-date}
+Jul 2025
+::::
+:::: {.timeline-content}
+### String Phenomenology 2025, Boston
 
-::: {.timeline-item}
-<div class="timeline-date">Jul 2022</div>
-<div class="timeline-content">
-<h3>String Phenomenology 2022, Liverpool</h3>
-<p>Hodge theory and deformed WZW models</p>
-</div>
-:::
+Emergent strings in type II$_b$ limits of Type IIB string theory
+::::
+:::::
 
-</div>
+::::: {.timeline-item}
+:::: {.timeline-date}
+Jul 2023
+::::
+:::: {.timeline-content}
+### String Phenomenology 2023, Daejeon
+
+Finiteness of flux vacua and the tadpole conjecture
+::::
+:::::
+
+::::: {.timeline-item}
+:::: {.timeline-date}
+Jul 2022
+::::
+:::: {.timeline-content}
+### String Phenomenology 2022, Liverpool
+
+Hodge theory and deformed WZW models
+::::
+:::::
+
+::::::
 
 ## Selected poster presentations
 
 - **Strings and Geometry 2026, Uppsala:** Quantum Kähler obstructions to
-  \(\mathcal{N}=1\) infinite-distance limits.
+  $\mathcal{N}=1$ infinite-distance limits.
 - **Strings and Geometry 2024, Hamburg:** Complexity of the flux landscape.
 - **Strings and Geometry 2022, Utrecht:** Asymptotic Hodge theory and deformed WZW
   models; gong show and poster presentation.

@@ -44,6 +44,7 @@ website:
 
 format:
   html:
+    html-math-method: mathjax
     theme: [cosmo, theme.scss]
     css: styles.css
     toc: true

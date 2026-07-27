@@ -5,164 +5,205 @@ page-layout: full
 toc: false
 ---
 
-```{=html}
-<div class="home-page">
-<div class="home-shell">
+:::::: {.home-page}
+::::: {.home-shell}
 
-<section class="hero">
-  <div class="hero-copy">
-    <p class="eyebrow">Theoretical physics · Quantum gravity · Geometry</p>
-    <h1>Jeroen<br>Monnee</h1>
-    <p class="hero-role">Postdoctoral Researcher · University of Hamburg</p>
-    <p class="hero-lead">
-      I work at the interface of string theory, quantum gravity, and algebraic geometry.
-      My research develops Hodge-theoretic and geometric methods to understand
-      infinite-distance limits, emergent strings, flux compactifications, and quantum
-      consistency conditions in Calabi–Yau compactifications.
-    </p>
+:::: {.hero .hero-no-visual}
+::: {.hero-copy}
 
-    <div class="hero-actions">
-      <a class="button-primary" href="research.html">Explore my research</a>
-      <a class="button-secondary" href="files/Jeroen_Monnee_CV.pdf">Download CV</a>
-    </div>
+::: {.eyebrow}
+Theoretical physics · Quantum gravity · Geometry
+:::
 
-    <div class="hero-links">
-      <a href="mailto:jeroen.monnee@desy.de">Email</a>
-      <a href="https://orcid.org/0000-0002-8744-4821">ORCID</a>
-      <a href="https://inspirehep.net/authors/1853394">INSPIRE-HEP</a>
-      <a href="https://github.com/JeroenMonnee">GitHub</a>
-    </div>
-  </div>
+# Jeroen Monnee {.hero-name}
 
-  <div class="hero-visual">
-    <img src="assets/research-geometry.svg"
-         alt="Abstract geometric illustration inspired by moduli spaces and degenerations">
-  </div>
-</section>
+::: {.hero-role}
+Postdoctoral Researcher · University of Hamburg
+:::
 
-<section class="fact-strip" aria-label="Academic profile">
-  <div class="fact">
-    <div class="fact-label">Current position</div>
-    <div class="fact-value">Postdoctoral Researcher, Hamburg</div>
-  </div>
-  <div class="fact">
-    <div class="fact-label">Doctorate</div>
-    <div class="fact-value">Theoretical Physics, Utrecht, 2024</div>
-  </div>
-  <div class="fact">
-    <div class="fact-label">Research fields</div>
-    <div class="fact-value">String theory · Hodge theory · Quantum gravity</div>
-  </div>
-</section>
+::: {.hero-lead}
+I work at the interface of string theory, quantum gravity, and algebraic geometry.
+My research develops Hodge-theoretic and geometric methods to understand
+infinite-distance limits, emergent strings, flux compactifications, and quantum
+consistency conditions in Calabi–Yau compactifications.
+:::
 
-<section class="section-block">
-  <div class="section-header">
-    <div>
-      <p class="section-kicker">Research programme</p>
-      <h2>Geometry as a window into quantum gravity</h2>
-    </div>
-    <p class="section-intro">
-      I study how the geometry of scalar-field spaces encodes the microscopic physics
-      of string compactifications, with particular emphasis on asymptotic regimes where
-      effective field theory is most strongly constrained.
-    </p>
-  </div>
+::: {.hero-actions}
+[Explore my research](research.qmd){.button-primary}
+[Download CV](files/Jeroen_Monnee_CV.pdf){.button-secondary}
+:::
 
-  <div class="theme-grid">
-    <article class="theme-card">
-      <div class="theme-number">01</div>
-      <h3>Emergent strings and infinite distance</h3>
-      <p>
-        Identifying the strings, towers of states, and higher-dimensional descriptions
-        that emerge at boundaries of Calabi–Yau moduli spaces.
-      </p>
-    </article>
+::: {.hero-links}
+[Email](mailto:jeroen.monnee@desy.de)
+[ORCID](https://orcid.org/0000-0002-8744-4821)
+[INSPIRE-HEP](https://inspirehep.net/authors/1853394)
+[GitHub](https://github.com/JeroenMonnee)
+:::
 
-    <article class="theme-card">
-      <div class="theme-number">02</div>
-      <h3>Asymptotic Hodge theory</h3>
-      <p>
-        Turning structural theorems for degenerating Hodge structures into practical
-        tools for periods, metrics, couplings, and flux potentials.
-      </p>
-    </article>
+:::
+::::
 
-    <article class="theme-card">
-      <div class="theme-number">03</div>
-      <h3>Quantum consistency and finiteness</h3>
-      <p>
-        Testing when classical limits survive quantum corrections and how geometry
-        constrains the landscape of effective theories and flux vacua.
-      </p>
-    </article>
-  </div>
-</section>
+:::: {.fact-strip aria-label="Academic profile"}
 
-<section class="section-block">
-  <div class="section-header">
-    <div>
-      <p class="section-kicker">Selected work</p>
-      <h2>Recent publications</h2>
-    </div>
-    <p class="section-intro">
-      A selection of work on emergent strings, geometric degenerations, and quantum
-      obstructions in four-dimensional string compactifications.
-    </p>
-  </div>
+::: {.fact}
+::: {.fact-label}
+Current position
+:::
+::: {.fact-value}
+Postdoctoral Researcher, Hamburg
+:::
+:::
 
-  <div class="work-grid">
-    <article class="work-card">
-      <div class="work-meta">Physical Review D · 2026</div>
-      <h3>Quantum obstructions for \(\mathcal{N}=1\) infinite-distance limits</h3>
-      <p>
-        Quantum corrections can force a correlated scaling of different moduli sectors,
-        obstructing limits that appear consistent in the classical effective action.
-      </p>
-      <div class="work-links">
-        <a href="https://arxiv.org/abs/2603.13470">arXiv</a>
-        <a href="publications.html">Publication list</a>
-      </div>
-    </article>
+::: {.fact}
+::: {.fact-label}
+Doctorate
+:::
+::: {.fact-value}
+Theoretical Physics, Utrecht, 2024
+:::
+:::
 
-    <article class="work-card">
-      <div class="work-meta">Journal of High Energy Physics · 2026</div>
-      <h3>Physics and geometry of complex-structure limits</h3>
-      <p>
-        A geometric interpretation of type II, III, and IV limits and the towers of
-        BPS states that realise their emergent higher-dimensional physics.
-      </p>
-      <div class="work-links">
-        <a href="https://doi.org/10.1007/JHEP03(2026)063">Journal</a>
-        <a href="https://arxiv.org/abs/2509.07056">arXiv</a>
-      </div>
-    </article>
+::: {.fact}
+::: {.fact-label}
+Research fields
+:::
+::: {.fact-value}
+String theory · Hodge theory · Quantum gravity
+:::
+:::
 
-    <article class="work-card">
-      <div class="work-meta">Journal of High Energy Physics · 2026</div>
-      <h3>Emergent strings in Type IIB Calabi–Yau compactifications</h3>
-      <p>
-        A microscopic identification of emergent heterotic strings and accompanying
-        towers of states in a broad class of type II limits.
-      </p>
-      <div class="work-links">
-        <a href="https://doi.org/10.1007/JHEP01(2026)140">Journal</a>
-        <a href="https://arxiv.org/abs/2504.01066">arXiv</a>
-      </div>
-    </article>
-  </div>
-</section>
+::::
 
-<section class="cta-panel">
-  <div>
-    <h2>Research, talks, and collaboration</h2>
-    <p>
-      The remaining pages collect my publications, invited talks, teaching, supervision,
-      and academic service.
-    </p>
-  </div>
-  <a class="button-secondary" href="activities.html">View academic activities</a>
-</section>
+:::: {.section-block}
 
-</div>
-</div>
-```
+:::: {.section-header}
+::: 
+::: {.section-kicker}
+Research programme
+:::
+## Geometry as a window into quantum gravity
+:::
+
+::: {.section-intro}
+I study how the geometry of scalar-field spaces encodes the microscopic physics
+of string compactifications, with particular emphasis on asymptotic regimes where
+effective field theory is most strongly constrained.
+:::
+::::
+
+:::: {.theme-grid}
+
+::: {.theme-card}
+::: {.theme-number}
+01
+:::
+### Emergent strings and infinite distance
+
+Identifying the strings, towers of states, and higher-dimensional descriptions
+that emerge at boundaries of Calabi–Yau moduli spaces.
+:::
+
+::: {.theme-card}
+::: {.theme-number}
+02
+:::
+### Asymptotic Hodge theory
+
+Turning structural theorems for degenerating Hodge structures into practical
+tools for periods, metrics, couplings, and flux potentials.
+:::
+
+::: {.theme-card}
+::: {.theme-number}
+03
+:::
+### Quantum consistency and finiteness
+
+Testing when classical limits survive quantum corrections and how geometry
+constrains the landscape of effective theories and flux vacua.
+:::
+
+::::
+
+::::
+
+:::: {.section-block}
+
+:::: {.section-header}
+:::
+::: {.section-kicker}
+Selected work
+:::
+## Recent publications
+:::
+
+::: {.section-intro}
+A selection of work on emergent strings, geometric degenerations, and quantum
+obstructions in four-dimensional string compactifications.
+:::
+::::
+
+:::: {.work-grid}
+
+::: {.work-card}
+::: {.work-meta}
+Physical Review D · 2026
+:::
+### Quantum obstructions for $\mathcal{N}=1$ infinite-distance limits
+
+Quantum corrections can force a correlated scaling of different moduli sectors,
+obstructing limits that appear consistent in the classical effective action.
+
+::: {.work-links}
+[arXiv](https://arxiv.org/abs/2603.13470)
+[Publication list](publications.qmd)
+:::
+:::
+
+::: {.work-card}
+::: {.work-meta}
+Journal of High Energy Physics · 2026
+:::
+### Physics and geometry of complex-structure limits
+
+A geometric interpretation of type II, III, and IV limits and the towers of
+BPS states that realise their emergent higher-dimensional physics.
+
+::: {.work-links}
+[Journal](https://doi.org/10.1007/JHEP03(2026)063)
+[arXiv](https://arxiv.org/abs/2509.07056)
+:::
+:::
+
+::: {.work-card}
+::: {.work-meta}
+Journal of High Energy Physics · 2026
+:::
+### Emergent strings in Type IIB Calabi–Yau compactifications
+
+A microscopic identification of emergent heterotic strings and accompanying
+towers of states in a broad class of type II limits.
+
+::: {.work-links}
+[Journal](https://doi.org/10.1007/JHEP01(2026)140)
+[arXiv](https://arxiv.org/abs/2504.01066)
+:::
+:::
+
+::::
+
+::::
+
+:::: {.cta-panel}
+:::
+## Research, talks, and collaboration
+
+The remaining pages collect my publications, invited talks, teaching, supervision,
+and academic service.
+:::
+
+[View academic activities](activities.qmd){.button-secondary}
+::::
+
+:::::
+::::::

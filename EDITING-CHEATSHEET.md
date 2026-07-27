@@ -23,15 +23,15 @@ Most website content is ordinary Markdown inside `.qmd` files.
 Inline mathematics:
 
 ```markdown
-The theory has \(\mathcal{N}=1\) supersymmetry.
+The theory has $\mathcal{N}=1$ supersymmetry.
 ```
 
 Displayed mathematics:
 
 ```markdown
-\[
+$$
 K = -\log\!\left(i\int_X \Omega\wedge\overline{\Omega}\right).
-\]
+$$
 ```
 
 ## Add a publication

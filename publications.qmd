@@ -10,110 +10,189 @@ For continuously updated records, see
 
 ## 2026
 
-::: {.publication}
-<div class="pub-year">2026</div>
-<div>
-<h3>Quantum obstructions for \(\mathcal{N}=1\) infinite distance limits — Part II: Kähler obstructions</h3>
-<p>L. Kaufmann, <strong>J. Monnee</strong>, T. Weigand, and M. Wiesner</p>
-<p><em>Physical Review D</em> <strong>113</strong>, 126028 (2026)</p>
-<p class="pub-links"><a href="https://doi.org/10.1103/ypyx-mg6r">Journal</a> · <a href="https://arxiv.org/abs/2603.13470">arXiv:2603.13470</a></p>
-</div>
+:::: {.publication}
+::: {.pub-year}
+2026
 :::
+::: {.publication-body}
+### Quantum obstructions for $\mathcal{N}=1$ infinite distance limits — Part II: Kähler obstructions
 
-::: {.publication}
-<div class="pub-year">2026</div>
-<div>
-<h3>Quantum obstructions for \(\mathcal{N}=1\) infinite distance limits — Part I: \(g_s\) obstructions</h3>
-<p>L. Kaufmann, <strong>J. Monnee</strong>, T. Weigand, and M. Wiesner</p>
-<p><em>Physical Review D</em> <strong>113</strong>, 126027 (2026)</p>
-<p class="pub-links"><a href="https://doi.org/10.1103/blb9-hrwd">Journal</a> · <a href="https://arxiv.org/abs/2603.12315">arXiv:2603.12315</a></p>
-</div>
-:::
+L. Kaufmann, **J. Monnee**, T. Weigand, and M. Wiesner
 
-::: {.publication}
-<div class="pub-year">2026</div>
-<div>
-<h3>\(K\) points and Type IIB/heterotic duality with NS5-branes</h3>
-<p><strong>J. Monnee</strong>, T. Weigand, and M. Wiesner</p>
-<p><em>Physical Review D</em> <strong>113</strong>, 066002 (2026)</p>
-<p class="pub-links"><a href="https://doi.org/10.1103/kcbz-jf16">Journal</a> · <a href="https://arxiv.org/abs/2510.02435">arXiv:2510.02435</a></p>
-</div>
-:::
+*Physical Review D* **113**, 126028 (2026)
 
-::: {.publication}
-<div class="pub-year">2026</div>
-<div>
-<h3>Physics and geometry of complex-structure limits in Type IIB Calabi–Yau compactifications</h3>
-<p><strong>J. Monnee</strong>, T. Weigand, and M. Wiesner</p>
-<p><em>Journal of High Energy Physics</em> <strong>03</strong>, 063 (2026)</p>
-<p class="pub-links"><a href="https://doi.org/10.1007/JHEP03(2026)063">Journal</a> · <a href="https://arxiv.org/abs/2509.07056">arXiv:2509.07056</a></p>
-</div>
+::: {.pub-links}
+[Journal](https://doi.org/10.1103/ypyx-mg6r) ·
+[arXiv:2603.13470](https://arxiv.org/abs/2603.13470)
 :::
+:::
+::::
 
-::: {.publication}
-<div class="pub-year">2026</div>
-<div>
-<h3>Emergent strings in Type IIB Calabi–Yau compactifications</h3>
-<p>B. Hassfeld, <strong>J. Monnee</strong>, T. Weigand, and M. Wiesner</p>
-<p><em>Journal of High Energy Physics</em> <strong>01</strong>, 140 (2026)</p>
-<p class="pub-links"><a href="https://doi.org/10.1007/JHEP01(2026)140">Journal</a> · <a href="https://arxiv.org/abs/2504.01066">arXiv:2504.01066</a></p>
-</div>
+:::: {.publication}
+::: {.pub-year}
+2026
 :::
+::: {.publication-body}
+### Quantum obstructions for $\mathcal{N}=1$ infinite distance limits — Part I: $g_s$ obstructions
+
+L. Kaufmann, **J. Monnee**, T. Weigand, and M. Wiesner
+
+*Physical Review D* **113**, 126027 (2026)
+
+::: {.pub-links}
+[Journal](https://doi.org/10.1103/blb9-hrwd) ·
+[arXiv:2603.12315](https://arxiv.org/abs/2603.12315)
+:::
+:::
+::::
+
+:::: {.publication}
+::: {.pub-year}
+2026
+:::
+::: {.publication-body}
+### $K$ points and Type IIB/heterotic duality with NS5-branes
+
+**J. Monnee**, T. Weigand, and M. Wiesner
+
+*Physical Review D* **113**, 066002 (2026)
+
+::: {.pub-links}
+[Journal](https://doi.org/10.1103/kcbz-jf16) ·
+[arXiv:2510.02435](https://arxiv.org/abs/2510.02435)
+:::
+:::
+::::
+
+:::: {.publication}
+::: {.pub-year}
+2026
+:::
+::: {.publication-body}
+### Physics and geometry of complex-structure limits in Type IIB Calabi–Yau compactifications
+
+**J. Monnee**, T. Weigand, and M. Wiesner
+
+*Journal of High Energy Physics* **03**, 063 (2026)
+
+::: {.pub-links}
+[Journal](https://doi.org/10.1007/JHEP03(2026)063) ·
+[arXiv:2509.07056](https://arxiv.org/abs/2509.07056)
+:::
+:::
+::::
+
+:::: {.publication}
+::: {.pub-year}
+2026
+:::
+::: {.publication-body}
+### Emergent strings in Type IIB Calabi–Yau compactifications
+
+B. Hassfeld, **J. Monnee**, T. Weigand, and M. Wiesner
+
+*Journal of High Energy Physics* **01**, 140 (2026)
+
+::: {.pub-links}
+[Journal](https://doi.org/10.1007/JHEP01(2026)140) ·
+[arXiv:2504.01066](https://arxiv.org/abs/2504.01066)
+:::
+:::
+::::
 
 ## 2024
 
-::: {.publication}
-<div class="pub-year">2024</div>
-<div>
-<h3>Finiteness theorems and counting conjectures for the flux landscape</h3>
-<p>T. W. Grimm and <strong>J. Monnee</strong></p>
-<p><em>Journal of High Energy Physics</em> <strong>08</strong>, 039 (2024)</p>
-<p class="pub-links"><a href="https://doi.org/10.1007/JHEP08(2024)039">Journal</a> · <a href="https://arxiv.org/abs/2311.09295">arXiv:2311.09295</a></p>
-</div>
+:::: {.publication}
+::: {.pub-year}
+2024
 :::
+::: {.publication-body}
+### Finiteness theorems and counting conjectures for the flux landscape
+
+T. W. Grimm and **J. Monnee**
+
+*Journal of High Energy Physics* **08**, 039 (2024)
+
+::: {.pub-links}
+[Journal](https://doi.org/10.1007/JHEP08(2024)039) ·
+[arXiv:2311.09295](https://arxiv.org/abs/2311.09295)
+:::
+:::
+::::
 
 ## 2023
 
-::: {.publication}
-<div class="pub-year">2023</div>
-<div>
-<h3>Bi-Yang–Baxter models and \(SL(2)\)-orbits</h3>
-<p>T. W. Grimm and <strong>J. Monnee</strong></p>
-<p><em>Journal of High Energy Physics</em> <strong>11</strong>, 123 (2023)</p>
-<p class="pub-links"><a href="https://doi.org/10.1007/JHEP11(2023)123">Journal</a> · <a href="https://arxiv.org/abs/2212.03893">arXiv:2212.03893</a></p>
-</div>
+:::: {.publication}
+::: {.pub-year}
+2023
 :::
+::: {.publication-body}
+### Bi-Yang–Baxter models and $SL(2)$-orbits
+
+T. W. Grimm and **J. Monnee**
+
+*Journal of High Energy Physics* **11**, 123 (2023)
+
+::: {.pub-links}
+[Journal](https://doi.org/10.1007/JHEP11(2023)123) ·
+[arXiv:2212.03893](https://arxiv.org/abs/2212.03893)
+:::
+:::
+::::
 
 ## 2022
 
-::: {.publication}
-<div class="pub-year">2022</div>
-<div>
-<h3>Deformed WZW models and Hodge theory — Part I</h3>
-<p>T. W. Grimm and <strong>J. Monnee</strong></p>
-<p><em>Journal of High Energy Physics</em> <strong>05</strong>, 103 (2022)</p>
-<p class="pub-links"><a href="https://doi.org/10.1007/JHEP05(2022)103">Journal</a> · <a href="https://arxiv.org/abs/2112.00031">arXiv:2112.00031</a></p>
-</div>
+:::: {.publication}
+::: {.pub-year}
+2022
 :::
+::: {.publication-body}
+### Deformed WZW models and Hodge theory — Part I
 
-::: {.publication}
-<div class="pub-year">2022</div>
-<div>
-<h3>Bulk reconstruction in moduli-space holography</h3>
-<p>T. W. Grimm, <strong>J. Monnee</strong>, and D. van de Heisteeg</p>
-<p><em>Journal of High Energy Physics</em> <strong>05</strong>, 010 (2022)</p>
-<p class="pub-links"><a href="https://doi.org/10.1007/JHEP05(2022)010">Journal</a> · <a href="https://arxiv.org/abs/2103.12746">arXiv:2103.12746</a></p>
-</div>
+T. W. Grimm and **J. Monnee**
+
+*Journal of High Energy Physics* **05**, 103 (2022)
+
+::: {.pub-links}
+[Journal](https://doi.org/10.1007/JHEP05(2022)103) ·
+[arXiv:2112.00031](https://arxiv.org/abs/2112.00031)
 :::
+:::
+::::
+
+:::: {.publication}
+::: {.pub-year}
+2022
+:::
+::: {.publication-body}
+### Bulk reconstruction in moduli-space holography
+
+T. W. Grimm, **J. Monnee**, and D. van de Heisteeg
+
+*Journal of High Energy Physics* **05**, 010 (2022)
+
+::: {.pub-links}
+[Journal](https://doi.org/10.1007/JHEP05(2022)010) ·
+[arXiv:2103.12746](https://arxiv.org/abs/2103.12746)
+:::
+:::
+::::
 
 ## Doctoral thesis
 
-::: {.publication}
-<div class="pub-year">2024</div>
-<div>
-<h3>Asymptotic Hodge Theory in String Compactifications and Integrable Systems</h3>
-<p><strong>J. Monnee</strong></p>
-<p>PhD thesis, Utrecht University (2024)</p>
-<p class="pub-links"><a href="https://arxiv.org/abs/2409.06794">arXiv:2409.06794</a></p>
-</div>
+:::: {.publication}
+::: {.pub-year}
+2024
 :::
+::: {.publication-body}
+### Asymptotic Hodge Theory in String Compactifications and Integrable Systems
+
+**J. Monnee**
+
+PhD thesis, Utrecht University (2024)
+
+::: {.pub-links}
+[arXiv:2409.06794](https://arxiv.org/abs/2409.06794)
+:::
+:::
+::::
